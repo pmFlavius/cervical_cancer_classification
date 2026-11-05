@@ -1,0 +1,13 @@
+# date (prea mari pentru Git)
+data/
+
+# modele salvate
+results/**/*.pt
+results/**/*.pth
+
+# mediu și IDE
+.venv/
+__pycache__/
+*.pyc
+.idea/workspace.xml
+.ipynb_checkpoints/
