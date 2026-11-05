@@ -1,4 +1,4 @@
-# cervical_cancer_clasification
+# cervical_cancer_classification
 Clasificarea cancerului de col uterin din imagini medicale 
 
 # Analiza literaturii de specialitate 
