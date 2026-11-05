@@ -1,0 +1,749 @@
+path,dataset,class_name,true,pred,prob_normal,prob_abnormal
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/016_01.bmp,sipakmed,Dyskeratotic,1,1,3.0428782e-05,0.9999696
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/016_02.bmp,sipakmed,Dyskeratotic,1,1,8.042577e-06,0.999992
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/016_03.bmp,sipakmed,Dyskeratotic,1,1,3.0756117e-05,0.99996924
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/016_04.bmp,sipakmed,Dyskeratotic,1,1,7.3382766e-06,0.9999926
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/022_01.bmp,sipakmed,Dyskeratotic,1,1,7.763886e-06,0.99999225
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/022_02.bmp,sipakmed,Dyskeratotic,1,1,0.00022437616,0.9997756
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/022_03.bmp,sipakmed,Dyskeratotic,1,1,0.00016990432,0.99983
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/022_04.bmp,sipakmed,Dyskeratotic,1,1,0.041603096,0.95839685
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/037_01.bmp,sipakmed,Dyskeratotic,1,1,0.0010834686,0.9989165
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/037_02.bmp,sipakmed,Dyskeratotic,1,1,0.00022545525,0.9997745
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/037_03.bmp,sipakmed,Dyskeratotic,1,1,3.7195645e-05,0.9999628
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/037_04.bmp,sipakmed,Dyskeratotic,1,1,2.286532e-05,0.9999771
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/037_05.bmp,sipakmed,Dyskeratotic,1,1,4.995389e-06,0.999995
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/037_06.bmp,sipakmed,Dyskeratotic,1,1,2.0110218e-05,0.99997985
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/037_07.bmp,sipakmed,Dyskeratotic,1,1,0.00078872684,0.9992112
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/037_08.bmp,sipakmed,Dyskeratotic,1,1,1.9503962e-06,0.9999981
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/050_01.bmp,sipakmed,Dyskeratotic,1,1,0.0019943027,0.9980057
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/064_01.bmp,sipakmed,Dyskeratotic,1,1,1.5030611e-05,0.999985
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/064_02.bmp,sipakmed,Dyskeratotic,1,1,7.2482925e-07,0.9999993
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/064_03.bmp,sipakmed,Dyskeratotic,1,1,3.935792e-06,0.99999607
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/064_04.bmp,sipakmed,Dyskeratotic,1,1,0.00032719164,0.9996728
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/067_01.bmp,sipakmed,Dyskeratotic,1,1,0.00028106774,0.99971896
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/067_02.bmp,sipakmed,Dyskeratotic,1,1,0.0017108804,0.99828905
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/067_03.bmp,sipakmed,Dyskeratotic,1,1,0.00016681381,0.9998331
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/067_04.bmp,sipakmed,Dyskeratotic,1,1,9.569283e-05,0.9999043
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/067_05.bmp,sipakmed,Dyskeratotic,1,1,5.9474227e-05,0.9999405
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/067_06.bmp,sipakmed,Dyskeratotic,1,1,0.017267156,0.9827329
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/067_07.bmp,sipakmed,Dyskeratotic,1,1,9.3616643e-07,0.99999905
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/067_08.bmp,sipakmed,Dyskeratotic,1,1,3.4385554e-05,0.99996567
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/067_09.bmp,sipakmed,Dyskeratotic,1,1,4.8152855e-05,0.99995184
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/067_10.bmp,sipakmed,Dyskeratotic,1,1,0.0016469386,0.9983531
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/067_11.bmp,sipakmed,Dyskeratotic,1,1,0.00031427617,0.99968576
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/067_12.bmp,sipakmed,Dyskeratotic,1,1,0.00046194592,0.99953806
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/067_13.bmp,sipakmed,Dyskeratotic,1,1,1.9120713e-05,0.9999809
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/067_14.bmp,sipakmed,Dyskeratotic,1,1,0.0089117875,0.99108815
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/067_15.bmp,sipakmed,Dyskeratotic,1,1,0.00050033734,0.9994997
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/067_16.bmp,sipakmed,Dyskeratotic,1,1,0.0013084026,0.9986916
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/067_17.bmp,sipakmed,Dyskeratotic,1,1,3.5315368e-06,0.9999964
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/067_18.bmp,sipakmed,Dyskeratotic,1,1,2.6454896e-05,0.99997354
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/067_19.bmp,sipakmed,Dyskeratotic,1,1,0.001998272,0.99800175
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/067_20.bmp,sipakmed,Dyskeratotic,1,1,5.157549e-06,0.9999949
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/067_21.bmp,sipakmed,Dyskeratotic,1,1,0.00023041028,0.9997696
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/069_01.bmp,sipakmed,Dyskeratotic,1,1,0.00013674122,0.99986327
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/069_02.bmp,sipakmed,Dyskeratotic,1,1,1.950454e-05,0.99998045
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/069_03.bmp,sipakmed,Dyskeratotic,1,1,6.7413035e-05,0.9999325
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/069_04.bmp,sipakmed,Dyskeratotic,1,1,1.5024147e-05,0.999985
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/069_05.bmp,sipakmed,Dyskeratotic,1,1,9.753325e-07,0.99999905
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/069_06.bmp,sipakmed,Dyskeratotic,1,1,1.2513637e-05,0.9999875
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/075_01.bmp,sipakmed,Dyskeratotic,1,1,8.496709e-06,0.99999154
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/075_02.bmp,sipakmed,Dyskeratotic,1,1,0.029018918,0.9709811
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/076_01.bmp,sipakmed,Dyskeratotic,1,1,1.1246779e-07,0.9999999
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/076_02.bmp,sipakmed,Dyskeratotic,1,1,0.00095701666,0.9990429
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/077_01.bmp,sipakmed,Dyskeratotic,1,1,0.00023689351,0.9997631
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/077_02.bmp,sipakmed,Dyskeratotic,1,1,0.034232143,0.9657678
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/089_01.bmp,sipakmed,Dyskeratotic,1,1,3.201343e-07,0.99999964
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/090_01.bmp,sipakmed,Dyskeratotic,1,1,0.00030682524,0.99969316
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/090_02.bmp,sipakmed,Dyskeratotic,1,1,2.7760861e-05,0.9999722
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/090_03.bmp,sipakmed,Dyskeratotic,1,1,0.006023639,0.99397635
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/090_04.bmp,sipakmed,Dyskeratotic,1,1,0.2238993,0.77610064
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/091_01.bmp,sipakmed,Dyskeratotic,1,1,0.002898106,0.99710184
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/103_01.bmp,sipakmed,Dyskeratotic,1,1,2.848767e-08,1.0
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/103_02.bmp,sipakmed,Dyskeratotic,1,1,6.416636e-07,0.9999994
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/103_03.bmp,sipakmed,Dyskeratotic,1,1,2.0408132e-05,0.9999796
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/103_04.bmp,sipakmed,Dyskeratotic,1,1,0.00050003984,0.9994999
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/103_05.bmp,sipakmed,Dyskeratotic,1,1,4.5133427e-05,0.9999548
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/120_01.bmp,sipakmed,Dyskeratotic,1,1,7.600212e-06,0.9999924
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/120_02.bmp,sipakmed,Dyskeratotic,1,1,3.911327e-05,0.9999609
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/127_01.bmp,sipakmed,Dyskeratotic,1,1,4.411732e-05,0.9999559
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/127_02.bmp,sipakmed,Dyskeratotic,1,1,7.748294e-06,0.99999225
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/127_03.bmp,sipakmed,Dyskeratotic,1,1,6.0438997e-05,0.99993956
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/128_01.bmp,sipakmed,Dyskeratotic,1,1,7.880188e-05,0.9999212
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/129_01.bmp,sipakmed,Dyskeratotic,1,1,0.00019289421,0.9998072
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/129_02.bmp,sipakmed,Dyskeratotic,1,1,0.0004853129,0.9995147
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/131_01.bmp,sipakmed,Dyskeratotic,1,1,0.0015029708,0.998497
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/131_02.bmp,sipakmed,Dyskeratotic,1,1,1.9498642e-05,0.99998045
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/148_01.bmp,sipakmed,Dyskeratotic,1,1,7.9607986e-08,0.9999999
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/164_01.bmp,sipakmed,Dyskeratotic,1,1,3.40507e-07,0.99999964
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/164_02.bmp,sipakmed,Dyskeratotic,1,1,8.014501e-07,0.99999917
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/164_03.bmp,sipakmed,Dyskeratotic,1,1,8.437984e-07,0.99999917
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/164_04.bmp,sipakmed,Dyskeratotic,1,1,0.0011291052,0.9988709
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/164_05.bmp,sipakmed,Dyskeratotic,1,1,7.53759e-05,0.99992466
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/164_06.bmp,sipakmed,Dyskeratotic,1,1,3.851751e-07,0.99999964
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/164_07.bmp,sipakmed,Dyskeratotic,1,1,0.00017040758,0.99982953
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/164_08.bmp,sipakmed,Dyskeratotic,1,1,5.706691e-09,1.0
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/164_09.bmp,sipakmed,Dyskeratotic,1,1,1.8693148e-05,0.9999813
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/164_10.bmp,sipakmed,Dyskeratotic,1,1,5.308103e-09,1.0
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/164_11.bmp,sipakmed,Dyskeratotic,1,1,1.4382985e-05,0.9999856
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/164_12.bmp,sipakmed,Dyskeratotic,1,1,0.014942412,0.98505765
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/164_13.bmp,sipakmed,Dyskeratotic,1,1,3.047583e-05,0.9999695
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/164_14.bmp,sipakmed,Dyskeratotic,1,1,0.0046797586,0.99532026
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/164_15.bmp,sipakmed,Dyskeratotic,1,1,0.0014353468,0.99856466
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/164_16.bmp,sipakmed,Dyskeratotic,1,1,1.1682466e-08,1.0
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/164_17.bmp,sipakmed,Dyskeratotic,1,1,4.062343e-08,1.0
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/164_18.bmp,sipakmed,Dyskeratotic,1,1,2.1288854e-06,0.99999785
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/164_19.bmp,sipakmed,Dyskeratotic,1,1,0.114077814,0.88592225
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/164_20.bmp,sipakmed,Dyskeratotic,1,1,2.1722565e-07,0.99999976
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/164_21.bmp,sipakmed,Dyskeratotic,1,1,1.12997195e-05,0.9999887
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/164_22.bmp,sipakmed,Dyskeratotic,1,1,4.2538446e-05,0.99995744
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/164_23.bmp,sipakmed,Dyskeratotic,1,1,0.000227874,0.99977213
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/164_24.bmp,sipakmed,Dyskeratotic,1,1,9.353068e-06,0.9999907
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/167_01.bmp,sipakmed,Dyskeratotic,1,1,4.820275e-05,0.99995184
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/167_02.bmp,sipakmed,Dyskeratotic,1,1,0.00017473167,0.9998253
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/167_03.bmp,sipakmed,Dyskeratotic,1,1,9.832458e-06,0.9999902
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/186_01.bmp,sipakmed,Dyskeratotic,1,1,8.354167e-08,0.9999999
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/186_02.bmp,sipakmed,Dyskeratotic,1,1,2.3190597e-07,0.99999976
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/191_01.bmp,sipakmed,Dyskeratotic,1,1,5.524927e-05,0.9999448
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/197_01.bmp,sipakmed,Dyskeratotic,1,1,1.2417219e-06,0.9999988
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/199_01.bmp,sipakmed,Dyskeratotic,1,1,4.937375e-05,0.99995065
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/199_02.bmp,sipakmed,Dyskeratotic,1,1,0.0017613086,0.9982387
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/199_03.bmp,sipakmed,Dyskeratotic,1,1,0.030920908,0.9690791
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/199_04.bmp,sipakmed,Dyskeratotic,1,1,0.0014390264,0.99856097
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/199_05.bmp,sipakmed,Dyskeratotic,1,1,0.0052442495,0.99475574
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/199_06.bmp,sipakmed,Dyskeratotic,1,1,0.003976062,0.9960239
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/199_07.bmp,sipakmed,Dyskeratotic,1,1,0.0003641965,0.9996358
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/201_01.bmp,sipakmed,Dyskeratotic,1,1,1.2388757e-05,0.9999876
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/209_01.bmp,sipakmed,Dyskeratotic,1,1,6.901833e-07,0.9999993
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/209_02.bmp,sipakmed,Dyskeratotic,1,1,4.8516216e-07,0.9999995
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/209_03.bmp,sipakmed,Dyskeratotic,1,1,4.130975e-09,1.0
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/215_01.bmp,sipakmed,Dyskeratotic,1,1,0.00029437558,0.9997056
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/215_02.bmp,sipakmed,Dyskeratotic,1,1,2.1985845e-06,0.99999785
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/215_03.bmp,sipakmed,Dyskeratotic,1,1,0.00034170266,0.99965835
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/005_01.bmp,sipakmed,Koilocytotic,1,0,0.9921427,0.007857309
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/005_02.bmp,sipakmed,Koilocytotic,1,0,0.97685915,0.023140889
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/009_01.bmp,sipakmed,Koilocytotic,1,0,0.7321954,0.26780465
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/010_01.bmp,sipakmed,Koilocytotic,1,0,0.94627047,0.0537295
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/017_01.bmp,sipakmed,Koilocytotic,1,1,0.22342421,0.77657574
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/017_02.bmp,sipakmed,Koilocytotic,1,0,0.63562393,0.36437607
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/017_03.bmp,sipakmed,Koilocytotic,1,1,0.25657842,0.7434216
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/017_04.bmp,sipakmed,Koilocytotic,1,1,0.23252419,0.7674759
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/017_05.bmp,sipakmed,Koilocytotic,1,1,0.2278741,0.77212596
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/028_01.bmp,sipakmed,Koilocytotic,1,1,4.114227e-06,0.9999958
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/028_02.bmp,sipakmed,Koilocytotic,1,1,0.0002615866,0.9997384
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/032_01.bmp,sipakmed,Koilocytotic,1,1,6.4504184e-07,0.9999994
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/032_02.bmp,sipakmed,Koilocytotic,1,1,8.415674e-07,0.99999917
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/032_03.bmp,sipakmed,Koilocytotic,1,1,2.3288621e-05,0.99997675
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/056_01.bmp,sipakmed,Koilocytotic,1,1,0.0003176275,0.9996824
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/062_01.bmp,sipakmed,Koilocytotic,1,1,0.121946044,0.87805396
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/064_01.bmp,sipakmed,Koilocytotic,1,1,0.0014651797,0.9985348
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/064_02.bmp,sipakmed,Koilocytotic,1,1,3.5234694e-07,0.99999964
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/074_01.bmp,sipakmed,Koilocytotic,1,1,0.00023261341,0.99976736
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/074_02.bmp,sipakmed,Koilocytotic,1,1,8.065392e-05,0.9999193
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/077_01.bmp,sipakmed,Koilocytotic,1,0,0.9044877,0.095512316
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/077_02.bmp,sipakmed,Koilocytotic,1,1,0.26354307,0.73645693
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/077_03.bmp,sipakmed,Koilocytotic,1,1,0.3584431,0.6415569
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/077_04.bmp,sipakmed,Koilocytotic,1,1,0.3083838,0.6916162
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/077_05.bmp,sipakmed,Koilocytotic,1,1,0.0001769701,0.99982303
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/077_06.bmp,sipakmed,Koilocytotic,1,0,0.7672465,0.2327535
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/077_07.bmp,sipakmed,Koilocytotic,1,1,0.19331284,0.80668724
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/078_01.bmp,sipakmed,Koilocytotic,1,0,0.9646733,0.035326738
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/078_02.bmp,sipakmed,Koilocytotic,1,1,0.0058187204,0.9941812
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/088_01.bmp,sipakmed,Koilocytotic,1,1,0.019760815,0.9802392
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/088_02.bmp,sipakmed,Koilocytotic,1,0,0.6225953,0.37740466
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/088_03.bmp,sipakmed,Koilocytotic,1,1,0.005005661,0.99499434
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/088_04.bmp,sipakmed,Koilocytotic,1,1,0.012370116,0.98762983
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/088_05.bmp,sipakmed,Koilocytotic,1,1,0.027490398,0.97250956
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/088_06.bmp,sipakmed,Koilocytotic,1,1,0.0024437879,0.9975562
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/088_07.bmp,sipakmed,Koilocytotic,1,1,0.0007662228,0.99923384
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/088_08.bmp,sipakmed,Koilocytotic,1,1,0.0014136558,0.9985864
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/088_09.bmp,sipakmed,Koilocytotic,1,1,0.05011235,0.94988763
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/088_10.bmp,sipakmed,Koilocytotic,1,1,0.009477741,0.9905222
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/088_11.bmp,sipakmed,Koilocytotic,1,1,2.8350536e-07,0.99999976
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/094_01.bmp,sipakmed,Koilocytotic,1,1,0.00093508564,0.999065
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/094_02.bmp,sipakmed,Koilocytotic,1,1,1.3637769e-05,0.9999864
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/094_03.bmp,sipakmed,Koilocytotic,1,1,0.0004946098,0.9995054
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/094_04.bmp,sipakmed,Koilocytotic,1,1,0.0015384672,0.9984616
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/094_05.bmp,sipakmed,Koilocytotic,1,1,0.0010846702,0.9989153
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/094_06.bmp,sipakmed,Koilocytotic,1,1,5.315027e-06,0.99999464
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/094_07.bmp,sipakmed,Koilocytotic,1,1,0.0002222809,0.99977773
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/094_08.bmp,sipakmed,Koilocytotic,1,1,5.0290502e-05,0.9999497
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/094_09.bmp,sipakmed,Koilocytotic,1,1,0.00010051138,0.9998995
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/094_10.bmp,sipakmed,Koilocytotic,1,1,2.5932983e-05,0.999974
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/094_11.bmp,sipakmed,Koilocytotic,1,1,2.1397596e-05,0.99997866
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/095_01.bmp,sipakmed,Koilocytotic,1,1,3.0223105e-06,0.999997
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/095_02.bmp,sipakmed,Koilocytotic,1,1,0.061093125,0.93890685
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/095_03.bmp,sipakmed,Koilocytotic,1,1,0.0042798608,0.9957202
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/095_04.bmp,sipakmed,Koilocytotic,1,1,0.0004895223,0.9995105
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/095_05.bmp,sipakmed,Koilocytotic,1,1,3.2627952e-06,0.9999968
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/095_06.bmp,sipakmed,Koilocytotic,1,1,0.004366603,0.9956334
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/095_07.bmp,sipakmed,Koilocytotic,1,1,0.0018936422,0.99810636
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/095_08.bmp,sipakmed,Koilocytotic,1,1,0.013490455,0.9865095
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/095_09.bmp,sipakmed,Koilocytotic,1,1,0.036582988,0.96341705
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/095_10.bmp,sipakmed,Koilocytotic,1,1,0.24892347,0.7510766
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/095_11.bmp,sipakmed,Koilocytotic,1,1,0.06542128,0.9345788
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/095_12.bmp,sipakmed,Koilocytotic,1,1,0.0062738108,0.9937262
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/095_13.bmp,sipakmed,Koilocytotic,1,1,0.012182354,0.9878177
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/095_14.bmp,sipakmed,Koilocytotic,1,1,0.014323653,0.9856763
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/095_15.bmp,sipakmed,Koilocytotic,1,1,0.16054136,0.83945864
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/095_16.bmp,sipakmed,Koilocytotic,1,1,0.029616153,0.9703838
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/095_17.bmp,sipakmed,Koilocytotic,1,1,0.0009327854,0.99906725
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/095_18.bmp,sipakmed,Koilocytotic,1,1,0.0022747102,0.9977253
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/095_19.bmp,sipakmed,Koilocytotic,1,1,0.0046353512,0.99536467
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/102_01.bmp,sipakmed,Koilocytotic,1,1,0.00015386756,0.9998461
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/102_02.bmp,sipakmed,Koilocytotic,1,1,0.00019026925,0.9998098
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/102_03.bmp,sipakmed,Koilocytotic,1,1,0.0010237714,0.99897623
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/102_04.bmp,sipakmed,Koilocytotic,1,1,8.187535e-07,0.99999917
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/102_05.bmp,sipakmed,Koilocytotic,1,1,0.002552709,0.9974474
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/102_06.bmp,sipakmed,Koilocytotic,1,1,0.007369829,0.9926301
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/102_07.bmp,sipakmed,Koilocytotic,1,1,0.00085637224,0.9991436
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/116_01.bmp,sipakmed,Koilocytotic,1,1,0.00017169869,0.9998282
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/126_01.bmp,sipakmed,Koilocytotic,1,1,1.7217279e-06,0.99999833
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/126_02.bmp,sipakmed,Koilocytotic,1,1,9.6213025e-06,0.99999034
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/126_03.bmp,sipakmed,Koilocytotic,1,1,7.631389e-05,0.9999237
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/126_04.bmp,sipakmed,Koilocytotic,1,1,7.493164e-05,0.999925
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/136_01.bmp,sipakmed,Koilocytotic,1,1,0.49338815,0.5066119
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/142_01.bmp,sipakmed,Koilocytotic,1,1,0.004615689,0.9953843
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/142_02.bmp,sipakmed,Koilocytotic,1,1,0.004677682,0.9953223
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/142_03.bmp,sipakmed,Koilocytotic,1,1,0.016416432,0.9835836
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/142_04.bmp,sipakmed,Koilocytotic,1,1,0.07816334,0.92183673
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/156_01.bmp,sipakmed,Koilocytotic,1,1,0.0054594637,0.9945405
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/156_02.bmp,sipakmed,Koilocytotic,1,1,0.37328407,0.62671596
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/156_03.bmp,sipakmed,Koilocytotic,1,1,0.004823034,0.9951769
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/156_04.bmp,sipakmed,Koilocytotic,1,1,0.035800766,0.9641993
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/159_01.bmp,sipakmed,Koilocytotic,1,1,1.1806857e-06,0.9999988
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/159_02.bmp,sipakmed,Koilocytotic,1,1,1.068771e-05,0.9999893
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/159_03.bmp,sipakmed,Koilocytotic,1,1,6.334092e-06,0.9999937
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/160_01.bmp,sipakmed,Koilocytotic,1,1,0.00019334421,0.9998067
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/160_02.bmp,sipakmed,Koilocytotic,1,1,0.0039568506,0.9960432
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/160_03.bmp,sipakmed,Koilocytotic,1,1,0.00017696133,0.99982303
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/160_04.bmp,sipakmed,Koilocytotic,1,1,1.1498654e-05,0.99998856
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/160_05.bmp,sipakmed,Koilocytotic,1,1,0.008247503,0.99175256
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/161_01.bmp,sipakmed,Koilocytotic,1,1,0.01605605,0.98394394
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/161_02.bmp,sipakmed,Koilocytotic,1,1,0.008226745,0.9917733
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/161_03.bmp,sipakmed,Koilocytotic,1,1,1.8356943e-06,0.9999982
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/161_04.bmp,sipakmed,Koilocytotic,1,1,4.8810612e-05,0.99995124
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/161_05.bmp,sipakmed,Koilocytotic,1,1,0.1479014,0.8520986
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/165_01.bmp,sipakmed,Koilocytotic,1,1,0.0008611172,0.99913883
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/171_01.bmp,sipakmed,Koilocytotic,1,1,0.018755404,0.98124456
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/171_02.bmp,sipakmed,Koilocytotic,1,0,0.7427423,0.25725773
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/175_01.bmp,sipakmed,Koilocytotic,1,1,0.0010962945,0.99890375
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/180_01.bmp,sipakmed,Koilocytotic,1,1,0.20381987,0.7961801
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/180_02.bmp,sipakmed,Koilocytotic,1,1,0.101719044,0.89828104
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/186_01.bmp,sipakmed,Koilocytotic,1,1,7.9111635e-07,0.99999917
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/195_01.bmp,sipakmed,Koilocytotic,1,1,0.029704899,0.97029513
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/195_02.bmp,sipakmed,Koilocytotic,1,1,0.010092645,0.9899074
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/196_01.bmp,sipakmed,Koilocytotic,1,1,6.098098e-09,1.0
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/196_02.bmp,sipakmed,Koilocytotic,1,1,1.6374895e-07,0.9999999
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/197_01.bmp,sipakmed,Koilocytotic,1,1,1.1467617e-07,0.9999999
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/209_01.bmp,sipakmed,Koilocytotic,1,1,1.4800909e-06,0.99999857
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/220_01.bmp,sipakmed,Koilocytotic,1,1,1.5912087e-06,0.99999845
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/220_02.bmp,sipakmed,Koilocytotic,1,1,2.3054714e-07,0.99999976
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/220_03.bmp,sipakmed,Koilocytotic,1,1,2.1152011e-06,0.99999785
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/228_01.bmp,sipakmed,Koilocytotic,1,1,2.1780875e-07,0.99999976
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/229_01.bmp,sipakmed,Koilocytotic,1,1,4.067087e-06,0.99999595
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/234_01.bmp,sipakmed,Koilocytotic,1,1,1.0964284e-06,0.9999989
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/234_02.bmp,sipakmed,Koilocytotic,1,1,2.3231061e-07,0.99999976
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/006_01.bmp,sipakmed,Metaplastic,0,0,0.9999907,9.256576e-06
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/006_02.bmp,sipakmed,Metaplastic,0,0,0.9999397,6.0318427e-05
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/006_03.bmp,sipakmed,Metaplastic,0,0,0.96996236,0.030037625
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/006_04.bmp,sipakmed,Metaplastic,0,0,0.9983065,0.0016934444
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/010_01.bmp,sipakmed,Metaplastic,0,0,0.99997854,2.1497654e-05
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/010_02.bmp,sipakmed,Metaplastic,0,0,0.99998546,1.449543e-05
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/010_03.bmp,sipakmed,Metaplastic,0,0,0.99999785,2.1754083e-06
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/022_01.bmp,sipakmed,Metaplastic,0,0,0.9999989,1.0712491e-06
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/032_01.bmp,sipakmed,Metaplastic,0,0,0.9999796,2.0387357e-05
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/039_01.bmp,sipakmed,Metaplastic,0,0,0.99995303,4.6985533e-05
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/039_02.bmp,sipakmed,Metaplastic,0,0,0.9988576,0.0011423401
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/042_01.bmp,sipakmed,Metaplastic,0,0,0.9995602,0.0004398589
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/042_02.bmp,sipakmed,Metaplastic,0,0,0.99998665,1.335005e-05
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/045_01.bmp,sipakmed,Metaplastic,0,0,0.99999547,4.489218e-06
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/045_02.bmp,sipakmed,Metaplastic,0,0,0.9999944,5.5763126e-06
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/048_01.bmp,sipakmed,Metaplastic,0,0,0.9998791,0.00012090406
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/052_01.bmp,sipakmed,Metaplastic,0,0,0.99991643,8.35643e-05
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/052_02.bmp,sipakmed,Metaplastic,0,0,0.99981433,0.00018567542
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/056_01.bmp,sipakmed,Metaplastic,0,0,0.99999595,4.0953046e-06
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/060_01.bmp,sipakmed,Metaplastic,0,0,0.9999161,8.392951e-05
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/066_01.bmp,sipakmed,Metaplastic,0,0,1.0,8.680877e-09
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/066_02.bmp,sipakmed,Metaplastic,0,0,0.9998024,0.0001976253
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/076_01.bmp,sipakmed,Metaplastic,0,0,0.99999416,5.8266837e-06
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/076_02.bmp,sipakmed,Metaplastic,0,0,0.99992394,7.606425e-05
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/083_01.bmp,sipakmed,Metaplastic,0,0,1.0,4.481192e-08
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/083_02.bmp,sipakmed,Metaplastic,0,0,1.0,2.1457403e-08
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/083_03.bmp,sipakmed,Metaplastic,0,0,1.0,2.2741697e-08
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/083_04.bmp,sipakmed,Metaplastic,0,0,1.0,1.6595766e-09
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/083_05.bmp,sipakmed,Metaplastic,0,0,0.9999988,1.1597145e-06
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/083_06.bmp,sipakmed,Metaplastic,0,0,0.9999999,9.997332e-08
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/083_07.bmp,sipakmed,Metaplastic,0,0,1.0,1.1719671e-08
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/084_01.bmp,sipakmed,Metaplastic,0,0,0.99999964,3.3776436e-07
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/090_01.bmp,sipakmed,Metaplastic,0,0,1.0,3.1386427e-09
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/090_02.bmp,sipakmed,Metaplastic,0,0,0.99999976,2.0298467e-07
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/090_03.bmp,sipakmed,Metaplastic,0,0,0.9999975,2.4955452e-06
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/096_01.bmp,sipakmed,Metaplastic,0,1,0.48032343,0.51967657
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/096_02.bmp,sipakmed,Metaplastic,0,0,0.78299856,0.21700142
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/096_03.bmp,sipakmed,Metaplastic,0,0,0.7891241,0.21087591
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/096_04.bmp,sipakmed,Metaplastic,0,0,0.8629703,0.13702974
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/096_05.bmp,sipakmed,Metaplastic,0,0,0.6941868,0.3058132
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/102_01.bmp,sipakmed,Metaplastic,0,0,0.75100994,0.24899007
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/102_02.bmp,sipakmed,Metaplastic,0,0,0.5628028,0.4371972
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/102_03.bmp,sipakmed,Metaplastic,0,0,0.72874296,0.27125713
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/102_04.bmp,sipakmed,Metaplastic,0,0,0.7290747,0.27092534
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/102_05.bmp,sipakmed,Metaplastic,0,1,0.10922582,0.89077425
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/102_06.bmp,sipakmed,Metaplastic,0,0,0.95622355,0.043776423
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/102_07.bmp,sipakmed,Metaplastic,0,0,0.660485,0.339515
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/102_08.bmp,sipakmed,Metaplastic,0,0,0.7171283,0.2828717
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/109_01.bmp,sipakmed,Metaplastic,0,0,0.9996859,0.00031409253
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/111_01.bmp,sipakmed,Metaplastic,0,0,0.99998176,1.8250277e-05
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/117_01.bmp,sipakmed,Metaplastic,0,0,0.9990963,0.0009037042
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/117_02.bmp,sipakmed,Metaplastic,0,0,0.998395,0.0016049088
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/119_01.bmp,sipakmed,Metaplastic,0,0,0.98667765,0.0133223655
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/119_02.bmp,sipakmed,Metaplastic,0,0,0.99999464,5.3696695e-06
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/121_01.bmp,sipakmed,Metaplastic,0,1,0.1242022,0.8757978
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/123_01.bmp,sipakmed,Metaplastic,0,0,0.99999547,4.5801353e-06
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/123_02.bmp,sipakmed,Metaplastic,0,0,0.9982449,0.0017551124
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/127_01.bmp,sipakmed,Metaplastic,0,0,0.9967558,0.003244219
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/141_01.bmp,sipakmed,Metaplastic,0,0,0.99998987,1.0178293e-05
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/141_02.bmp,sipakmed,Metaplastic,0,0,0.9999851,1.4872979e-05
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/141_03.bmp,sipakmed,Metaplastic,0,0,0.8619923,0.13800775
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/141_04.bmp,sipakmed,Metaplastic,0,0,0.99169075,0.008309262
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/141_05.bmp,sipakmed,Metaplastic,0,0,0.99989724,0.00010276839
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/141_06.bmp,sipakmed,Metaplastic,0,0,0.9887705,0.01122952
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/141_07.bmp,sipakmed,Metaplastic,0,0,0.9999231,7.6939454e-05
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/141_08.bmp,sipakmed,Metaplastic,0,0,0.59916675,0.40083328
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/156_01.bmp,sipakmed,Metaplastic,0,0,0.9149248,0.08507517
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/156_02.bmp,sipakmed,Metaplastic,0,0,0.99302703,0.006972902
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/159_01.bmp,sipakmed,Metaplastic,0,0,0.65293354,0.34706643
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/159_02.bmp,sipakmed,Metaplastic,0,1,0.4500414,0.54995865
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/159_03.bmp,sipakmed,Metaplastic,0,1,0.027792402,0.9722076
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/163_01.bmp,sipakmed,Metaplastic,0,0,0.9805927,0.019407248
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/164_01.bmp,sipakmed,Metaplastic,0,0,0.94168586,0.058314208
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/164_02.bmp,sipakmed,Metaplastic,0,0,0.9999211,7.88699e-05
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/164_03.bmp,sipakmed,Metaplastic,0,0,0.938356,0.061644033
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/164_04.bmp,sipakmed,Metaplastic,0,0,0.9369427,0.06305736
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/164_05.bmp,sipakmed,Metaplastic,0,0,0.9762874,0.023712542
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/164_06.bmp,sipakmed,Metaplastic,0,0,0.6035804,0.3964196
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/164_07.bmp,sipakmed,Metaplastic,0,0,0.50282866,0.4971713
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/167_01.bmp,sipakmed,Metaplastic,0,0,0.9999045,9.5528725e-05
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/167_02.bmp,sipakmed,Metaplastic,0,0,0.57326525,0.42673475
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/167_03.bmp,sipakmed,Metaplastic,0,0,0.9732414,0.0267586
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/167_04.bmp,sipakmed,Metaplastic,0,0,0.9984847,0.0015153954
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/167_05.bmp,sipakmed,Metaplastic,0,0,0.9997985,0.00020158345
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/167_06.bmp,sipakmed,Metaplastic,0,1,0.42205527,0.5779447
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/178_01.bmp,sipakmed,Metaplastic,0,0,0.9999999,1.717356e-07
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/197_01.bmp,sipakmed,Metaplastic,0,0,0.9999999,7.640363e-08
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/197_02.bmp,sipakmed,Metaplastic,0,0,1.0,2.7412737e-08
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/197_03.bmp,sipakmed,Metaplastic,0,0,0.999997,2.9681164e-06
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/197_04.bmp,sipakmed,Metaplastic,0,0,0.99976677,0.00023320588
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/202_01.bmp,sipakmed,Metaplastic,0,0,0.99999905,8.943601e-07
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/202_02.bmp,sipakmed,Metaplastic,0,0,0.99980694,0.0001931375
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/202_03.bmp,sipakmed,Metaplastic,0,0,0.99999833,1.6718589e-06
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/202_04.bmp,sipakmed,Metaplastic,0,0,0.9999951,4.926999e-06
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/202_05.bmp,sipakmed,Metaplastic,0,0,0.9998783,0.00012172875
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/202_06.bmp,sipakmed,Metaplastic,0,0,0.99986756,0.00013242429
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/202_07.bmp,sipakmed,Metaplastic,0,0,0.9968663,0.0031336662
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/202_08.bmp,sipakmed,Metaplastic,0,0,0.9998721,0.00012792142
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/202_09.bmp,sipakmed,Metaplastic,0,0,0.99831223,0.0016877168
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/203_01.bmp,sipakmed,Metaplastic,0,0,0.998987,0.0010129344
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/203_02.bmp,sipakmed,Metaplastic,0,0,0.99899834,0.0010016977
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/203_03.bmp,sipakmed,Metaplastic,0,0,0.99961495,0.00038502642
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/203_04.bmp,sipakmed,Metaplastic,0,0,0.99890053,0.0010994005
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/215_01.bmp,sipakmed,Metaplastic,0,0,0.99999964,4.1511348e-07
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/224_01.bmp,sipakmed,Metaplastic,0,0,0.99975044,0.00024959186
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/224_02.bmp,sipakmed,Metaplastic,0,0,0.9887898,0.0112101855
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/239_01.bmp,sipakmed,Metaplastic,0,1,0.46264592,0.53735405
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/239_02.bmp,sipakmed,Metaplastic,0,0,0.78369904,0.21630093
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/239_03.bmp,sipakmed,Metaplastic,0,1,0.30941972,0.6905803
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/239_04.bmp,sipakmed,Metaplastic,0,0,0.98111224,0.018887736
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/239_05.bmp,sipakmed,Metaplastic,0,0,0.93054795,0.06945205
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/248_01.bmp,sipakmed,Metaplastic,0,0,0.99881506,0.0011849666
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/255_01.bmp,sipakmed,Metaplastic,0,0,0.99985397,0.0001460651
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/255_02.bmp,sipakmed,Metaplastic,0,0,0.9987501,0.0012498987
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/268_01.bmp,sipakmed,Metaplastic,0,0,0.9999838,1.6232816e-05
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/268_02.bmp,sipakmed,Metaplastic,0,0,0.99986947,0.00013048106
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/268_03.bmp,sipakmed,Metaplastic,0,0,0.99376243,0.006237605
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/268_04.bmp,sipakmed,Metaplastic,0,0,0.99780685,0.0021931997
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/268_05.bmp,sipakmed,Metaplastic,0,0,0.9991229,0.00087704364
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/001_01.bmp,sipakmed,Parabasal,0,0,0.9999943,5.6794556e-06
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/001_02.bmp,sipakmed,Parabasal,0,0,0.99915624,0.0008437124
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/001_03.bmp,sipakmed,Parabasal,0,0,0.9999466,5.338574e-05
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/001_04.bmp,sipakmed,Parabasal,0,0,0.9948171,0.0051829075
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/001_05.bmp,sipakmed,Parabasal,0,0,0.99982375,0.00017631425
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/001_06.bmp,sipakmed,Parabasal,0,0,0.9999753,2.4733754e-05
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/001_07.bmp,sipakmed,Parabasal,0,0,0.99996495,3.50554e-05
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/001_08.bmp,sipakmed,Parabasal,0,0,0.9848733,0.015126723
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/001_09.bmp,sipakmed,Parabasal,0,0,0.99977833,0.00022162992
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/001_10.bmp,sipakmed,Parabasal,0,0,0.9915741,0.008425844
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/001_11.bmp,sipakmed,Parabasal,0,0,0.9986155,0.0013844967
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/001_12.bmp,sipakmed,Parabasal,0,0,0.99692494,0.0030750716
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/001_13.bmp,sipakmed,Parabasal,0,0,0.95497483,0.045025133
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/003_01.bmp,sipakmed,Parabasal,0,0,1.0,5.6267776e-08
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/003_02.bmp,sipakmed,Parabasal,0,0,0.999997,2.9530593e-06
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/003_03.bmp,sipakmed,Parabasal,0,0,0.99999964,3.46474e-07
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/003_04.bmp,sipakmed,Parabasal,0,0,0.9998963,0.00010373723
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/003_05.bmp,sipakmed,Parabasal,0,0,0.9999856,1.4417054e-05
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/003_06.bmp,sipakmed,Parabasal,0,0,0.999874,0.0001259877
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/003_07.bmp,sipakmed,Parabasal,0,0,0.9999181,8.189738e-05
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/003_08.bmp,sipakmed,Parabasal,0,0,0.99999607,3.9896054e-06
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/003_09.bmp,sipakmed,Parabasal,0,0,1.0,2.0154983e-08
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/003_10.bmp,sipakmed,Parabasal,0,0,0.99999845,1.5176066e-06
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/003_11.bmp,sipakmed,Parabasal,0,0,0.99997723,2.276899e-05
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/003_12.bmp,sipakmed,Parabasal,0,0,0.99999666,3.3258818e-06
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/003_13.bmp,sipakmed,Parabasal,0,0,0.9999995,5.0207655e-07
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/010_01.bmp,sipakmed,Parabasal,0,0,0.9999999,1.0351734e-07
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/010_02.bmp,sipakmed,Parabasal,0,0,0.9999988,1.2435753e-06
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/010_03.bmp,sipakmed,Parabasal,0,0,0.99999976,2.2925839e-07
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/010_04.bmp,sipakmed,Parabasal,0,0,0.99990296,9.708097e-05
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/010_05.bmp,sipakmed,Parabasal,0,0,0.9996001,0.0003999632
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/010_06.bmp,sipakmed,Parabasal,0,0,0.99993944,6.0532777e-05
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/010_07.bmp,sipakmed,Parabasal,0,0,0.9999467,5.3334963e-05
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/010_08.bmp,sipakmed,Parabasal,0,0,0.9997094,0.00029050687
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/010_09.bmp,sipakmed,Parabasal,0,0,0.99949515,0.00050484046
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/010_10.bmp,sipakmed,Parabasal,0,0,0.99765223,0.002347745
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/012_01.bmp,sipakmed,Parabasal,0,0,0.9999999,6.122587e-08
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/012_02.bmp,sipakmed,Parabasal,0,0,0.9999975,2.5517008e-06
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/012_03.bmp,sipakmed,Parabasal,0,0,1.0,7.1523214e-09
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/012_04.bmp,sipakmed,Parabasal,0,0,0.99999905,1.0035634e-06
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/012_05.bmp,sipakmed,Parabasal,0,0,0.99999976,2.4924523e-07
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/012_06.bmp,sipakmed,Parabasal,0,0,0.9999999,6.476492e-08
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/012_07.bmp,sipakmed,Parabasal,0,0,0.9994548,0.00054515246
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/024_01.bmp,sipakmed,Parabasal,0,0,0.9999311,6.891188e-05
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/024_02.bmp,sipakmed,Parabasal,0,0,0.99995077,4.923533e-05
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/024_03.bmp,sipakmed,Parabasal,0,0,0.99998045,1.9538533e-05
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/024_04.bmp,sipakmed,Parabasal,0,0,0.99999845,1.521499e-06
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/024_05.bmp,sipakmed,Parabasal,0,0,0.999721,0.00027905023
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/031_01.bmp,sipakmed,Parabasal,0,0,0.99999976,2.531797e-07
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/031_02.bmp,sipakmed,Parabasal,0,0,0.9999927,7.3064903e-06
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/031_03.bmp,sipakmed,Parabasal,0,0,0.9999894,1.0571964e-05
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/031_04.bmp,sipakmed,Parabasal,0,0,0.9999995,5.3614446e-07
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/031_05.bmp,sipakmed,Parabasal,0,0,0.9999957,4.2578126e-06
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/031_06.bmp,sipakmed,Parabasal,0,0,0.9999554,4.4551136e-05
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/031_07.bmp,sipakmed,Parabasal,0,0,1.0,1.6065811e-10
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/031_08.bmp,sipakmed,Parabasal,0,0,1.0,5.0953393e-08
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/031_09.bmp,sipakmed,Parabasal,0,0,1.0,5.5384937e-09
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/042_01.bmp,sipakmed,Parabasal,0,0,0.9999999,1.19010316e-07
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/042_02.bmp,sipakmed,Parabasal,0,0,0.9999999,1.0602313e-07
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/042_03.bmp,sipakmed,Parabasal,0,0,1.0,5.4508598e-09
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/042_04.bmp,sipakmed,Parabasal,0,0,1.0,7.5864665e-10
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/042_05.bmp,sipakmed,Parabasal,0,0,1.0,1.9565212e-10
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/042_06.bmp,sipakmed,Parabasal,0,0,1.0,2.3840412e-08
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/042_07.bmp,sipakmed,Parabasal,0,0,0.9999989,1.0288268e-06
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/042_08.bmp,sipakmed,Parabasal,0,0,0.9999999,1.7881213e-07
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/042_09.bmp,sipakmed,Parabasal,0,0,1.0,8.764411e-09
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/042_10.bmp,sipakmed,Parabasal,0,0,0.99999976,2.1772588e-07
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/042_11.bmp,sipakmed,Parabasal,0,0,0.9999999,7.534977e-08
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/042_12.bmp,sipakmed,Parabasal,0,0,0.9999999,1.7408857e-07
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/042_13.bmp,sipakmed,Parabasal,0,0,0.9999441,5.5885248e-05
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/054_01.bmp,sipakmed,Parabasal,0,0,0.9999962,3.8082126e-06
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/054_02.bmp,sipakmed,Parabasal,0,0,0.9999502,4.9816907e-05
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/054_03.bmp,sipakmed,Parabasal,0,0,0.9979724,0.002027562
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/054_04.bmp,sipakmed,Parabasal,0,0,0.99985707,0.00014297072
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/054_05.bmp,sipakmed,Parabasal,0,0,0.999982,1.8039585e-05
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/054_06.bmp,sipakmed,Parabasal,0,0,0.99996924,3.0770112e-05
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/054_07.bmp,sipakmed,Parabasal,0,0,0.9999881,1.1953727e-05
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/054_08.bmp,sipakmed,Parabasal,0,0,0.9999534,4.6633777e-05
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/059_01.bmp,sipakmed,Parabasal,0,0,0.99999845,1.5443616e-06
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/059_02.bmp,sipakmed,Parabasal,0,0,0.9999999,8.975423e-08
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/059_03.bmp,sipakmed,Parabasal,0,0,0.99996924,3.0770287e-05
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/076_01.bmp,sipakmed,Parabasal,0,0,1.0,1.4571038e-09
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/076_02.bmp,sipakmed,Parabasal,0,0,1.0,9.402746e-10
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/076_03.bmp,sipakmed,Parabasal,0,0,0.99999845,1.5874134e-06
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/076_04.bmp,sipakmed,Parabasal,0,0,0.9999993,6.9993115e-07
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/076_05.bmp,sipakmed,Parabasal,0,0,0.9999999,7.059229e-08
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/076_06.bmp,sipakmed,Parabasal,0,0,1.0,5.79097e-08
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/077_01.bmp,sipakmed,Parabasal,0,0,0.9999999,8.957209e-08
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/077_02.bmp,sipakmed,Parabasal,0,0,0.9999993,6.643128e-07
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/077_03.bmp,sipakmed,Parabasal,0,0,0.99999964,3.588279e-07
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/077_04.bmp,sipakmed,Parabasal,0,0,1.0,3.0493136e-10
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/077_05.bmp,sipakmed,Parabasal,0,0,0.99999917,8.6628495e-07
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/084_01.bmp,sipakmed,Parabasal,0,0,0.9999958,4.1369885e-06
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/084_02.bmp,sipakmed,Parabasal,0,0,1.0,4.5811976e-09
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/084_03.bmp,sipakmed,Parabasal,0,0,0.99999964,4.022915e-07
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/084_04.bmp,sipakmed,Parabasal,0,0,0.9999995,4.6110367e-07
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/092_01.bmp,sipakmed,Parabasal,0,0,0.9999999,8.755459e-08
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/092_02.bmp,sipakmed,Parabasal,0,0,0.99999976,2.680803e-07
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/092_03.bmp,sipakmed,Parabasal,0,0,0.9999368,6.312401e-05
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/092_04.bmp,sipakmed,Parabasal,0,0,0.99999976,1.8145762e-07
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/094_01.bmp,sipakmed,Parabasal,0,0,0.9999993,6.7210505e-07
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/094_02.bmp,sipakmed,Parabasal,0,0,0.9999995,4.4847323e-07
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/094_03.bmp,sipakmed,Parabasal,0,0,1.0,1.4581889e-08
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/094_04.bmp,sipakmed,Parabasal,0,0,1.0,3.330125e-09
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/094_05.bmp,sipakmed,Parabasal,0,0,1.0,1.5881229e-08
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/094_06.bmp,sipakmed,Parabasal,0,0,1.0,7.5526824e-10
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/094_07.bmp,sipakmed,Parabasal,0,0,1.0,3.7508524e-08
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/094_08.bmp,sipakmed,Parabasal,0,0,0.9999993,7.566559e-07
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/103_01.bmp,sipakmed,Parabasal,0,0,0.99999905,9.0844253e-07
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/106_01.bmp,sipakmed,Parabasal,0,0,0.9999982,1.7719211e-06
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/106_02.bmp,sipakmed,Parabasal,0,0,0.9999999,1.2774716e-07
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/106_03.bmp,sipakmed,Parabasal,0,0,0.99999845,1.593979e-06
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/106_04.bmp,sipakmed,Parabasal,0,0,0.99999976,2.0788711e-07
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/106_05.bmp,sipakmed,Parabasal,0,0,0.9999975,2.5558118e-06
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/106_06.bmp,sipakmed,Parabasal,0,0,0.9999821,1.7897668e-05
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/106_07.bmp,sipakmed,Parabasal,0,0,0.99999964,3.2386066e-07
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/106_08.bmp,sipakmed,Parabasal,0,0,0.99967885,0.00032112014
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/106_09.bmp,sipakmed,Parabasal,0,0,0.999998,2.0449334e-06
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/008_01.bmp,sipakmed,Superficial-Intermediate,0,0,0.9999975,2.5489915e-06
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/008_02.bmp,sipakmed,Superficial-Intermediate,0,0,0.99999976,2.3877166e-07
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/008_03.bmp,sipakmed,Superficial-Intermediate,0,0,0.99999964,3.7069387e-07
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/008_04.bmp,sipakmed,Superficial-Intermediate,0,0,0.9999914,8.609812e-06
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/008_05.bmp,sipakmed,Superficial-Intermediate,0,0,0.9962851,0.0037149363
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/008_06.bmp,sipakmed,Superficial-Intermediate,0,0,0.88809377,0.11190622
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/008_07.bmp,sipakmed,Superficial-Intermediate,0,0,0.99965346,0.00034653165
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/008_08.bmp,sipakmed,Superficial-Intermediate,0,0,0.9999883,1.16568835e-05
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/008_09.bmp,sipakmed,Superficial-Intermediate,0,0,0.9999895,1.0474677e-05
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/019_01.bmp,sipakmed,Superficial-Intermediate,0,0,0.99962664,0.00037332944
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/019_02.bmp,sipakmed,Superficial-Intermediate,0,0,0.9999864,1.3642817e-05
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/019_03.bmp,sipakmed,Superficial-Intermediate,0,0,0.99962115,0.00037878755
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/019_04.bmp,sipakmed,Superficial-Intermediate,0,0,0.9999912,8.773044e-06
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/019_05.bmp,sipakmed,Superficial-Intermediate,0,0,0.99997365,2.631354e-05
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/019_06.bmp,sipakmed,Superficial-Intermediate,0,0,0.9998288,0.00017113757
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/019_07.bmp,sipakmed,Superficial-Intermediate,0,0,0.9997148,0.00028514225
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/019_08.bmp,sipakmed,Superficial-Intermediate,0,0,0.9999387,6.122648e-05
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/019_09.bmp,sipakmed,Superficial-Intermediate,0,0,0.99995565,4.4400866e-05
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/019_10.bmp,sipakmed,Superficial-Intermediate,0,0,0.99984646,0.00015353182
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/024_01.bmp,sipakmed,Superficial-Intermediate,0,0,0.9999747,2.5284258e-05
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/024_02.bmp,sipakmed,Superficial-Intermediate,0,0,0.9999348,6.517742e-05
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/024_03.bmp,sipakmed,Superficial-Intermediate,0,0,0.88685125,0.11314871
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/026_01.bmp,sipakmed,Superficial-Intermediate,0,0,0.99999344,6.5886807e-06
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/026_02.bmp,sipakmed,Superficial-Intermediate,0,0,0.99999607,3.8852963e-06
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/026_03.bmp,sipakmed,Superficial-Intermediate,0,0,0.9999851,1.4913743e-05
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/026_04.bmp,sipakmed,Superficial-Intermediate,0,0,0.9999616,3.8385027e-05
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/026_05.bmp,sipakmed,Superficial-Intermediate,0,0,0.9999869,1.3087496e-05
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/035_01.bmp,sipakmed,Superficial-Intermediate,0,0,0.99998736,1.2590005e-05
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/035_02.bmp,sipakmed,Superficial-Intermediate,0,0,0.9999956,4.449095e-06
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/035_03.bmp,sipakmed,Superficial-Intermediate,0,0,0.99993455,6.546321e-05
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/035_04.bmp,sipakmed,Superficial-Intermediate,0,0,0.9999976,2.3279572e-06
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/035_05.bmp,sipakmed,Superficial-Intermediate,0,0,0.99999356,6.4838982e-06
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/035_06.bmp,sipakmed,Superficial-Intermediate,0,0,0.9999515,4.848327e-05
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/035_07.bmp,sipakmed,Superficial-Intermediate,0,0,0.9999808,1.9161947e-05
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/044_01.bmp,sipakmed,Superficial-Intermediate,0,0,0.99998987,1.016799e-05
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/044_02.bmp,sipakmed,Superficial-Intermediate,0,0,0.9999993,7.0644745e-07
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/044_03.bmp,sipakmed,Superficial-Intermediate,0,0,0.99999976,2.235678e-07
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/044_04.bmp,sipakmed,Superficial-Intermediate,0,0,1.0,3.7700243e-08
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/045_01.bmp,sipakmed,Superficial-Intermediate,0,0,0.9999547,4.5255743e-05
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/045_02.bmp,sipakmed,Superficial-Intermediate,0,0,0.9999777,2.2253227e-05
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/045_03.bmp,sipakmed,Superficial-Intermediate,0,0,0.99999154,8.424543e-06
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/045_04.bmp,sipakmed,Superficial-Intermediate,0,0,0.9999993,7.3364816e-07
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/045_05.bmp,sipakmed,Superficial-Intermediate,0,0,0.9999924,7.61786e-06
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/045_06.bmp,sipakmed,Superficial-Intermediate,0,0,0.9999958,4.1781923e-06
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/045_07.bmp,sipakmed,Superficial-Intermediate,0,0,0.9999999,6.972862e-08
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/045_08.bmp,sipakmed,Superficial-Intermediate,0,0,0.9999999,1.6923234e-07
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/045_09.bmp,sipakmed,Superficial-Intermediate,0,0,0.9998332,0.00016671269
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/045_10.bmp,sipakmed,Superficial-Intermediate,0,0,0.9999293,7.066736e-05
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/045_11.bmp,sipakmed,Superficial-Intermediate,0,0,0.83131963,0.16868034
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/046_01.bmp,sipakmed,Superficial-Intermediate,0,0,0.99999464,5.381183e-06
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/046_02.bmp,sipakmed,Superficial-Intermediate,0,0,0.99999905,9.1138946e-07
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/046_03.bmp,sipakmed,Superficial-Intermediate,0,0,0.9988908,0.001109147
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/046_04.bmp,sipakmed,Superficial-Intermediate,0,0,0.99988365,0.000116296
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/046_05.bmp,sipakmed,Superficial-Intermediate,0,0,0.9999461,5.3872303e-05
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/046_06.bmp,sipakmed,Superficial-Intermediate,0,1,0.11530828,0.8846917
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/046_07.bmp,sipakmed,Superficial-Intermediate,0,0,0.99976546,0.00023454225
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/046_08.bmp,sipakmed,Superficial-Intermediate,0,0,0.99993503,6.498732e-05
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/046_09.bmp,sipakmed,Superficial-Intermediate,0,0,0.9999999,1.3695052e-07
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/046_10.bmp,sipakmed,Superficial-Intermediate,0,0,0.99998677,1.3279489e-05
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/048_01.bmp,sipakmed,Superficial-Intermediate,0,0,0.9999902,9.813123e-06
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/048_02.bmp,sipakmed,Superficial-Intermediate,0,0,0.9999994,6.2741725e-07
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/048_03.bmp,sipakmed,Superficial-Intermediate,0,0,0.99998724,1.2775968e-05
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/048_04.bmp,sipakmed,Superficial-Intermediate,0,0,0.9999064,9.355649e-05
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/058_01.bmp,sipakmed,Superficial-Intermediate,0,0,0.9999937,6.3679927e-06
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/058_02.bmp,sipakmed,Superficial-Intermediate,0,0,0.9998635,0.00013649098
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/058_03.bmp,sipakmed,Superficial-Intermediate,0,0,0.99999857,1.4691879e-06
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/058_04.bmp,sipakmed,Superficial-Intermediate,0,0,0.99992824,7.171493e-05
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/058_05.bmp,sipakmed,Superficial-Intermediate,0,0,0.99989545,0.000104577884
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/058_06.bmp,sipakmed,Superficial-Intermediate,0,0,0.9999989,1.0581318e-06
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/058_07.bmp,sipakmed,Superficial-Intermediate,0,0,0.999984,1.6006503e-05
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/063_01.bmp,sipakmed,Superficial-Intermediate,0,0,0.9999939,6.066249e-06
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/063_02.bmp,sipakmed,Superficial-Intermediate,0,0,0.99999976,2.9167666e-07
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/063_03.bmp,sipakmed,Superficial-Intermediate,0,0,0.9999933,6.6503685e-06
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/063_04.bmp,sipakmed,Superficial-Intermediate,0,0,0.9999864,1.3536881e-05
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/063_05.bmp,sipakmed,Superficial-Intermediate,0,0,0.99999976,2.6162112e-07
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/063_06.bmp,sipakmed,Superficial-Intermediate,0,0,0.9999875,1.2480361e-05
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/064_01.bmp,sipakmed,Superficial-Intermediate,0,0,0.9946293,0.0053706756
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/064_02.bmp,sipakmed,Superficial-Intermediate,0,0,0.99999297,7.0003393e-06
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/064_03.bmp,sipakmed,Superficial-Intermediate,0,0,0.99937505,0.0006250038
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/064_04.bmp,sipakmed,Superficial-Intermediate,0,0,0.9998305,0.0001694568
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/064_05.bmp,sipakmed,Superficial-Intermediate,0,0,0.99999666,3.3020176e-06
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/089_01.bmp,sipakmed,Superficial-Intermediate,0,0,0.9999943,5.7237053e-06
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/090_01.bmp,sipakmed,Superficial-Intermediate,0,0,0.9999747,2.5219166e-05
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/090_02.bmp,sipakmed,Superficial-Intermediate,0,0,0.9999448,5.5216293e-05
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/091_01.bmp,sipakmed,Superficial-Intermediate,0,0,0.9999875,1.2503938e-05
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/094_01.bmp,sipakmed,Superficial-Intermediate,0,0,0.9999845,1.5544403e-05
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/094_02.bmp,sipakmed,Superficial-Intermediate,0,0,0.9999747,2.5270929e-05
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/094_03.bmp,sipakmed,Superficial-Intermediate,0,0,0.9999889,1.1048592e-05
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/094_04.bmp,sipakmed,Superficial-Intermediate,0,0,0.9990772,0.00092278403
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/094_05.bmp,sipakmed,Superficial-Intermediate,0,0,0.99993384,6.6196175e-05
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/094_06.bmp,sipakmed,Superficial-Intermediate,0,0,0.9999976,2.3676655e-06
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/094_07.bmp,sipakmed,Superficial-Intermediate,0,0,0.9999995,5.057278e-07
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/094_08.bmp,sipakmed,Superficial-Intermediate,0,0,0.99937797,0.0006220162
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/094_09.bmp,sipakmed,Superficial-Intermediate,0,0,0.93840724,0.061592747
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/094_10.bmp,sipakmed,Superficial-Intermediate,0,0,0.9977465,0.0022534656
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/104_01.bmp,sipakmed,Superficial-Intermediate,0,0,0.9999882,1.1859427e-05
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/104_02.bmp,sipakmed,Superficial-Intermediate,0,0,0.9999491,5.0955154e-05
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/104_03.bmp,sipakmed,Superficial-Intermediate,0,0,0.9999975,2.5607915e-06
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/104_04.bmp,sipakmed,Superficial-Intermediate,0,0,0.9999931,6.85501e-06
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/104_05.bmp,sipakmed,Superficial-Intermediate,0,0,0.9937596,0.006240431
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/104_06.bmp,sipakmed,Superficial-Intermediate,0,0,0.9999318,6.822136e-05
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/105_01.bmp,sipakmed,Superficial-Intermediate,0,0,0.9998951,0.00010483948
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/105_02.bmp,sipakmed,Superficial-Intermediate,0,0,0.9999912,8.855134e-06
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/105_03.bmp,sipakmed,Superficial-Intermediate,0,0,0.9999918,8.171994e-06
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/105_04.bmp,sipakmed,Superficial-Intermediate,0,0,0.99998045,1.9496076e-05
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/118_01.bmp,sipakmed,Superficial-Intermediate,0,0,0.9999993,6.8061536e-07
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/118_02.bmp,sipakmed,Superficial-Intermediate,0,0,0.99993956,6.041248e-05
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/118_03.bmp,sipakmed,Superficial-Intermediate,0,0,0.99999976,2.4452095e-07
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/118_04.bmp,sipakmed,Superficial-Intermediate,0,0,0.99999976,2.3832327e-07
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/118_05.bmp,sipakmed,Superficial-Intermediate,0,0,0.9999993,7.0399534e-07
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/118_06.bmp,sipakmed,Superficial-Intermediate,0,0,0.9999826,1.7350529e-05
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/118_07.bmp,sipakmed,Superficial-Intermediate,0,0,0.99994147,5.8524754e-05
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/118_08.bmp,sipakmed,Superficial-Intermediate,0,0,0.99999905,9.965896e-07
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/118_09.bmp,sipakmed,Superficial-Intermediate,0,0,0.9999995,4.2236329e-07
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/118_10.bmp,sipakmed,Superficial-Intermediate,0,0,0.98270756,0.017292427
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/125_01.bmp,sipakmed,Superficial-Intermediate,0,0,0.9979044,0.0020956038
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/125_02.bmp,sipakmed,Superficial-Intermediate,0,0,0.9998777,0.0001222551
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/125_03.bmp,sipakmed,Superficial-Intermediate,0,0,0.99993086,6.9193455e-05
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/125_04.bmp,sipakmed,Superficial-Intermediate,0,0,0.9998627,0.0001373544
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/125_05.bmp,sipakmed,Superficial-Intermediate,0,0,0.9999429,5.7109446e-05
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/126_01.bmp,sipakmed,Superficial-Intermediate,0,0,0.9999964,3.6132371e-06
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/126_02.bmp,sipakmed,Superficial-Intermediate,0,0,0.99999785,2.1645913e-06
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/126_03.bmp,sipakmed,Superficial-Intermediate,0,0,0.99960274,0.00039723207
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/126_04.bmp,sipakmed,Superficial-Intermediate,0,0,0.99897623,0.0010238074
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/126_05.bmp,sipakmed,Superficial-Intermediate,0,0,0.99991477,8.523638e-05
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/126_06.bmp,sipakmed,Superficial-Intermediate,0,0,0.9999864,1.3639253e-05
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/126_07.bmp,sipakmed,Superficial-Intermediate,0,0,0.9999944,5.645866e-06
+data/herlev/Herlev Dataset/test/carcinoma_in_situ/149316025-149316032-001.BMP,herlev,carcinoma_in_situ,1,0,0.7699302,0.23006985
+data/herlev/Herlev Dataset/test/carcinoma_in_situ/149316117-149316122-002.BMP,herlev,carcinoma_in_situ,1,0,0.8424507,0.15754937
+data/herlev/Herlev Dataset/test/carcinoma_in_situ/149316117-149316122-003.BMP,herlev,carcinoma_in_situ,1,0,0.97509414,0.02490589
+data/herlev/Herlev Dataset/test/carcinoma_in_situ/149316117-149316122-004.BMP,herlev,carcinoma_in_situ,1,1,0.0056872526,0.99431276
+data/herlev/Herlev Dataset/test/carcinoma_in_situ/149316117-149316131-001.BMP,herlev,carcinoma_in_situ,1,1,0.2922353,0.7077647
+data/herlev/Herlev Dataset/test/carcinoma_in_situ/149316117-149316131-002.BMP,herlev,carcinoma_in_situ,1,0,0.6666824,0.33331764
+data/herlev/Herlev Dataset/test/carcinoma_in_situ/153826597-153826619-001.BMP,herlev,carcinoma_in_situ,1,1,0.0002718616,0.99972814
+data/herlev/Herlev Dataset/test/carcinoma_in_situ/153826597-153826619-002.BMP,herlev,carcinoma_in_situ,1,1,8.5745334e-05,0.9999143
+data/herlev/Herlev Dataset/test/carcinoma_in_situ/153831426-153831438-001.BMP,herlev,carcinoma_in_situ,1,1,0.011753913,0.988246
+data/herlev/Herlev Dataset/test/light_dysplastic/153657327-153657363-001.BMP,herlev,light_dysplastic,1,1,2.6432805e-05,0.99997354
+data/herlev/Herlev Dataset/test/light_dysplastic/153657327-153657363-002.BMP,herlev,light_dysplastic,1,1,0.0016336645,0.9983663
+data/herlev/Herlev Dataset/test/light_dysplastic/153657419-153657488-001.BMP,herlev,light_dysplastic,1,1,0.15243071,0.8475692
+data/herlev/Herlev Dataset/test/light_dysplastic/153657419-153657488-002.BMP,herlev,light_dysplastic,1,1,0.0002916805,0.99970824
+data/herlev/Herlev Dataset/test/light_dysplastic/153657698-153657708-001.BMP,herlev,light_dysplastic,1,1,0.008484842,0.99151516
+data/herlev/Herlev Dataset/test/light_dysplastic/153701557-153701566-001.BMP,herlev,light_dysplastic,1,1,0.0008791144,0.9991209
+data/herlev/Herlev Dataset/test/light_dysplastic/153829664-153829672-001.BMP,herlev,light_dysplastic,1,1,0.001608857,0.9983911
+data/herlev/Herlev Dataset/test/moderate_dysplastic/149357849-149357857-001.BMP,herlev,moderate_dysplastic,1,1,0.013557264,0.9864427
+data/herlev/Herlev Dataset/test/moderate_dysplastic/149357849-149357857-002.BMP,herlev,moderate_dysplastic,1,1,0.00053912005,0.9994609
+data/herlev/Herlev Dataset/test/moderate_dysplastic/149357849-149357857-003.BMP,herlev,moderate_dysplastic,1,1,0.06539484,0.9346051
+data/herlev/Herlev Dataset/test/moderate_dysplastic/149357849-149357867-001.BMP,herlev,moderate_dysplastic,1,1,0.00036324415,0.99963677
+data/herlev/Herlev Dataset/test/moderate_dysplastic/149357849-149357867-002.BMP,herlev,moderate_dysplastic,1,1,3.1992124e-05,0.99996805
+data/herlev/Herlev Dataset/test/moderate_dysplastic/153829664-153829678-001.BMP,herlev,moderate_dysplastic,1,1,0.003942433,0.9960576
+data/herlev/Herlev Dataset/test/moderate_dysplastic/153916675-153916684-001.BMP,herlev,moderate_dysplastic,1,1,1.5261394e-05,0.99998474
+data/herlev/Herlev Dataset/test/moderate_dysplastic/204870892-204870902-001.BMP,herlev,moderate_dysplastic,1,1,0.043584876,0.9564151
+data/herlev/Herlev Dataset/test/moderate_dysplastic/204870892-204870910-001.BMP,herlev,moderate_dysplastic,1,1,0.00306736,0.9969326
+data/herlev/Herlev Dataset/test/normal_columnar/157266930-157266947-001.BMP,herlev,normal_columnar,0,0,0.63042545,0.36957458
+data/herlev/Herlev Dataset/test/normal_columnar/157266930-157266947-002.BMP,herlev,normal_columnar,0,0,0.9267762,0.073223785
+data/herlev/Herlev Dataset/test/normal_columnar/157266930-157266947-003.BMP,herlev,normal_columnar,0,0,0.96552235,0.03447767
+data/herlev/Herlev Dataset/test/normal_intermediate/209565864-209565890-001.BMP,herlev,normal_intermediate,0,0,0.9992399,0.0007600837
+data/herlev/Herlev Dataset/test/normal_intermediate/209565864-209565911-001.BMP,herlev,normal_intermediate,0,0,0.9982705,0.0017294919
+data/herlev/Herlev Dataset/test/normal_intermediate/209565864-209565950-001.BMP,herlev,normal_intermediate,0,0,0.9968076,0.0031923999
+data/herlev/Herlev Dataset/test/normal_intermediate/209566047-209566095-001.BMP,herlev,normal_intermediate,0,0,0.9909083,0.009091625
+data/herlev/Herlev Dataset/test/normal_intermediate/209566047-209566125-001.BMP,herlev,normal_intermediate,0,0,0.99998677,1.3197527e-05
+data/herlev/Herlev Dataset/test/normal_superficiel/157181569-157181599-001.BMP,herlev,normal_superficiel,0,0,0.99956805,0.00043195134
+data/herlev/Herlev Dataset/test/normal_superficiel/157224412-157224429-001.BMP,herlev,normal_superficiel,0,0,0.9998921,0.000107893684
+data/herlev/Herlev Dataset/test/normal_superficiel/209047342-209047400-001.BMP,herlev,normal_superficiel,0,0,0.99987316,0.00012678672
+data/herlev/Herlev Dataset/test/normal_superficiel/209047342-209047443-001.BMP,herlev,normal_superficiel,0,0,0.9998274,0.00017263411
+data/herlev/Herlev Dataset/test/normal_superficiel/209047342-209047478-001.BMP,herlev,normal_superficiel,0,0,0.9992305,0.00076954014
+data/herlev/Herlev Dataset/test/severe_dysplastic/153915316-153915330-003.BMP,herlev,severe_dysplastic,1,1,0.018978713,0.9810213
+data/herlev/Herlev Dataset/test/severe_dysplastic/153915634-153915665-001.BMP,herlev,severe_dysplastic,1,1,0.00070753857,0.9992925
+data/herlev/Herlev Dataset/test/severe_dysplastic/153915634-153915665-002.BMP,herlev,severe_dysplastic,1,1,0.043893907,0.95610607
+data/herlev/Herlev Dataset/test/severe_dysplastic/153915634-153915665-003.BMP,herlev,severe_dysplastic,1,0,0.6077802,0.39221978
+data/herlev/Herlev Dataset/test/severe_dysplastic/153915634-153915665-005.BMP,herlev,severe_dysplastic,1,1,0.0052485894,0.9947514
+data/herlev/Herlev Dataset/test/severe_dysplastic/153915634-153915665-006.BMP,herlev,severe_dysplastic,1,0,0.70514286,0.29485714
+data/herlev/Herlev Dataset/test/severe_dysplastic/153915634-153915665-007.BMP,herlev,severe_dysplastic,1,1,0.025639001,0.974361
+data/herlev/Herlev Dataset/train/carcinoma_in_situ/149185497-149185527-001.BMP,herlev,carcinoma_in_situ,1,1,0.000883156,0.99911684
+data/herlev/Herlev Dataset/train/carcinoma_in_situ/149185497-149185527-002.BMP,herlev,carcinoma_in_situ,1,1,0.0034916028,0.9965084
+data/herlev/Herlev Dataset/train/carcinoma_in_situ/149185497-149185527-003.BMP,herlev,carcinoma_in_situ,1,1,0.013552789,0.9864472
+data/herlev/Herlev Dataset/train/carcinoma_in_situ/149185604-149185616-001.BMP,herlev,carcinoma_in_situ,1,1,0.15182136,0.8481786
+data/herlev/Herlev Dataset/train/carcinoma_in_situ/149185604-149185629-001.BMP,herlev,carcinoma_in_situ,1,1,0.0007210545,0.99927896
+data/herlev/Herlev Dataset/train/carcinoma_in_situ/149185604-149185645-001.BMP,herlev,carcinoma_in_situ,1,1,0.0002063955,0.9997936
+data/herlev/Herlev Dataset/train/carcinoma_in_situ/149185604-149185645-002.BMP,herlev,carcinoma_in_situ,1,1,0.0018927889,0.9981072
+data/herlev/Herlev Dataset/train/carcinoma_in_situ/149185604-149185645-003.BMP,herlev,carcinoma_in_situ,1,1,0.00014586216,0.9998541
+data/herlev/Herlev Dataset/train/carcinoma_in_situ/149185604-149185645-004.BMP,herlev,carcinoma_in_situ,1,1,0.00013693329,0.999863
+data/herlev/Herlev Dataset/train/carcinoma_in_situ/149185604-149185645-005.BMP,herlev,carcinoma_in_situ,1,1,2.6190123e-06,0.9999974
+data/herlev/Herlev Dataset/train/carcinoma_in_situ/149185604-149185657-001.BMP,herlev,carcinoma_in_situ,1,1,0.0004451153,0.9995548
+data/herlev/Herlev Dataset/train/carcinoma_in_situ/149185604-149185657-002.BMP,herlev,carcinoma_in_situ,1,1,0.00043185748,0.99956816
+data/herlev/Herlev Dataset/train/carcinoma_in_situ/149315229-149315249-001.BMP,herlev,carcinoma_in_situ,1,1,0.00033296438,0.99966705
+data/herlev/Herlev Dataset/train/carcinoma_in_situ/149315229-149315249-002.BMP,herlev,carcinoma_in_situ,1,1,0.00056478346,0.99943525
+data/herlev/Herlev Dataset/train/light_dysplastic/148500154-148500165-001.BMP,herlev,light_dysplastic,1,1,0.0002247787,0.99977523
+data/herlev/Herlev Dataset/train/light_dysplastic/148503071-148503092-001.BMP,herlev,light_dysplastic,1,1,0.0019265679,0.99807346
+data/herlev/Herlev Dataset/train/light_dysplastic/148503071-148503092-002.BMP,herlev,light_dysplastic,1,1,0.0012061836,0.99879384
+data/herlev/Herlev Dataset/train/light_dysplastic/148503664-148503675-001.BMP,herlev,light_dysplastic,1,1,0.00022354122,0.9997764
+data/herlev/Herlev Dataset/train/light_dysplastic/148503664-148503675-002.BMP,herlev,light_dysplastic,1,1,0.0049682437,0.9950317
+data/herlev/Herlev Dataset/train/light_dysplastic/148503664-148503685-001.BMP,herlev,light_dysplastic,1,1,0.000110373905,0.9998896
+data/herlev/Herlev Dataset/train/light_dysplastic/148503664-148503685-002.BMP,herlev,light_dysplastic,1,1,0.00038658496,0.99961346
+data/herlev/Herlev Dataset/train/light_dysplastic/148842055-148842064-001.BMP,herlev,light_dysplastic,1,1,0.0009478065,0.9990522
+data/herlev/Herlev Dataset/train/light_dysplastic/148882307-148882323-001.BMP,herlev,light_dysplastic,1,1,0.0001455934,0.9998543
+data/herlev/Herlev Dataset/train/light_dysplastic/148882307-148882323-002.BMP,herlev,light_dysplastic,1,1,0.0075904876,0.99240947
+data/herlev/Herlev Dataset/train/light_dysplastic/148882307-148882410-001.BMP,herlev,light_dysplastic,1,1,0.00012786205,0.9998721
+data/herlev/Herlev Dataset/train/light_dysplastic/148882307-148882447-001.BMP,herlev,light_dysplastic,1,1,4.1028838e-05,0.999959
+data/herlev/Herlev Dataset/train/light_dysplastic/148882671-148882687-001.BMP,herlev,light_dysplastic,1,1,0.0026109857,0.997389
+data/herlev/Herlev Dataset/train/light_dysplastic/148882671-148882687-002.BMP,herlev,light_dysplastic,1,1,0.009209314,0.9907907
+data/herlev/Herlev Dataset/train/light_dysplastic/149053945-149053983-001.BMP,herlev,light_dysplastic,1,1,0.0082039265,0.9917961
+data/herlev/Herlev Dataset/train/light_dysplastic/149054642-149054677-002.BMP,herlev,light_dysplastic,1,1,0.00059951394,0.9994005
+data/herlev/Herlev Dataset/train/light_dysplastic/149054642-149054677-003.BMP,herlev,light_dysplastic,1,1,0.0007920319,0.99920803
+data/herlev/Herlev Dataset/train/light_dysplastic/149317002-149317018-001.BMP,herlev,light_dysplastic,1,1,0.003416118,0.9965838
+data/herlev/Herlev Dataset/train/light_dysplastic/149357849-149357874-001.BMP,herlev,light_dysplastic,1,1,0.00046378208,0.9995363
+data/herlev/Herlev Dataset/train/light_dysplastic/153314083-153314092-002.BMP,herlev,light_dysplastic,1,1,0.029079398,0.97092056
+data/herlev/Herlev Dataset/train/moderate_dysplastic/149053945-149053969-001.BMP,herlev,moderate_dysplastic,1,1,0.015273043,0.9847269
+data/herlev/Herlev Dataset/train/moderate_dysplastic/149053945-149053976-001.BMP,herlev,moderate_dysplastic,1,1,0.022136746,0.9778633
+data/herlev/Herlev Dataset/train/moderate_dysplastic/149054642-149054724-001.BMP,herlev,moderate_dysplastic,1,1,0.0058439397,0.994156
+data/herlev/Herlev Dataset/train/moderate_dysplastic/149097324-149097352-001.BMP,herlev,moderate_dysplastic,1,1,0.17735262,0.8226474
+data/herlev/Herlev Dataset/train/moderate_dysplastic/149097324-149097373-001.BMP,herlev,moderate_dysplastic,1,1,0.092141226,0.9078588
+data/herlev/Herlev Dataset/train/moderate_dysplastic/149097324-149097388-001.BMP,herlev,moderate_dysplastic,1,1,0.01426743,0.9857326
+data/herlev/Herlev Dataset/train/moderate_dysplastic/149101437-149101456-001.BMP,herlev,moderate_dysplastic,1,1,0.003173543,0.9968265
+data/herlev/Herlev Dataset/train/moderate_dysplastic/149101437-149101467-001.BMP,herlev,moderate_dysplastic,1,1,0.00024174928,0.9997583
+data/herlev/Herlev Dataset/train/moderate_dysplastic/149101437-149101467-002.BMP,herlev,moderate_dysplastic,1,1,0.0018802966,0.99811965
+data/herlev/Herlev Dataset/train/moderate_dysplastic/149140536-149140551-001.BMP,herlev,moderate_dysplastic,1,1,0.0009914605,0.9990086
+data/herlev/Herlev Dataset/train/moderate_dysplastic/149140849-149140856-001.BMP,herlev,moderate_dysplastic,1,1,0.033946577,0.9660534
+data/herlev/Herlev Dataset/train/moderate_dysplastic/149190861-149190868-001.BMP,herlev,moderate_dysplastic,1,1,0.00014716898,0.9998528
+data/herlev/Herlev Dataset/train/moderate_dysplastic/149315960-149315967-001.BMP,herlev,moderate_dysplastic,1,1,0.05641372,0.94358635
+data/herlev/Herlev Dataset/train/normal_columnar/153956040-153956058-001.BMP,herlev,normal_columnar,0,1,0.0008861105,0.99911386
+data/herlev/Herlev Dataset/train/normal_columnar/153956040-153956058-002.BMP,herlev,normal_columnar,0,1,0.12463923,0.8753608
+data/herlev/Herlev Dataset/train/normal_columnar/153956040-153956058-003.BMP,herlev,normal_columnar,0,1,0.12825225,0.87174773
+data/herlev/Herlev Dataset/train/normal_columnar/153956040-153956058-004.BMP,herlev,normal_columnar,0,1,0.009834879,0.9901652
+data/herlev/Herlev Dataset/train/normal_columnar/153956040-153956058-005.BMP,herlev,normal_columnar,0,0,0.62170726,0.37829268
+data/herlev/Herlev Dataset/train/normal_columnar/153956040-153956058-006.BMP,herlev,normal_columnar,0,1,0.44756085,0.55243915
+data/herlev/Herlev Dataset/train/normal_columnar/153956040-153956072-001.BMP,herlev,normal_columnar,0,1,0.37449083,0.62550926
+data/herlev/Herlev Dataset/train/normal_columnar/153956040-153956072-002.BMP,herlev,normal_columnar,0,1,0.4738533,0.52614665
+data/herlev/Herlev Dataset/train/normal_columnar/153956040-153956072-003.BMP,herlev,normal_columnar,0,1,0.4448595,0.5551405
+data/herlev/Herlev Dataset/train/normal_columnar/153956040-153956072-004.BMP,herlev,normal_columnar,0,1,0.024043761,0.9759562
+data/herlev/Herlev Dataset/train/normal_columnar/157181146-157181197-001.BMP,herlev,normal_columnar,0,0,0.98718506,0.012814927
+data/herlev/Herlev Dataset/train/normal_columnar/157181146-157181197-002.BMP,herlev,normal_columnar,0,0,0.9569591,0.043040864
+data/herlev/Herlev Dataset/train/normal_columnar/157181146-157181197-003.BMP,herlev,normal_columnar,0,0,0.9588324,0.041167643
+data/herlev/Herlev Dataset/train/normal_intermediate/157184013-157184023-001.BMP,herlev,normal_intermediate,0,0,0.9998685,0.00013147185
+data/herlev/Herlev Dataset/train/normal_intermediate/157184013-157184039-001.BMP,herlev,normal_intermediate,0,0,0.9986933,0.0013067387
+data/herlev/Herlev Dataset/train/normal_intermediate/157185677-157185690-001.BMP,herlev,normal_intermediate,0,0,0.9999622,3.776242e-05
+data/herlev/Herlev Dataset/train/normal_intermediate/157223246-157223258-001.BMP,herlev,normal_intermediate,0,0,0.999676,0.00032406647
+data/herlev/Herlev Dataset/train/normal_superficiel/157183193-157183241-001.BMP,herlev,normal_superficiel,0,0,0.99989355,0.00010643933
+data/herlev/Herlev Dataset/train/normal_superficiel/157183193-157183279-001.BMP,herlev,normal_superficiel,0,0,0.9999912,8.791604e-06
+data/herlev/Herlev Dataset/train/normal_superficiel/157184013-157184031-001.BMP,herlev,normal_superficiel,0,0,0.99706453,0.0029355185
+data/herlev/Herlev Dataset/train/normal_superficiel/157185208-157185238-001.BMP,herlev,normal_superficiel,0,0,0.9999124,8.764279e-05
+data/herlev/Herlev Dataset/train/normal_superficiel/157222737-157222750-001.BMP,herlev,normal_superficiel,0,0,0.9999126,8.7357264e-05
+data/herlev/Herlev Dataset/train/normal_superficiel/157222737-157222750-002.BMP,herlev,normal_superficiel,0,0,0.9997992,0.00020085438
+data/herlev/Herlev Dataset/train/severe_dysplastic/149056410-149056423-001.BMP,herlev,severe_dysplastic,1,1,0.03952004,0.9604799
+data/herlev/Herlev Dataset/train/severe_dysplastic/149056410-149056423-002.BMP,herlev,severe_dysplastic,1,1,0.0015148513,0.99848515
+data/herlev/Herlev Dataset/train/severe_dysplastic/149056410-149056423-003.BMP,herlev,severe_dysplastic,1,1,0.0704287,0.92957133
+data/herlev/Herlev Dataset/train/severe_dysplastic/149056410-149056423-004.BMP,herlev,severe_dysplastic,1,1,0.00081141666,0.9991886
+data/herlev/Herlev Dataset/train/severe_dysplastic/149056410-149056444-003.BMP,herlev,severe_dysplastic,1,1,0.14801864,0.85198134
+data/herlev/Herlev Dataset/train/severe_dysplastic/149056410-149056444-004.BMP,herlev,severe_dysplastic,1,1,0.0065591736,0.9934408
+data/herlev/Herlev Dataset/train/severe_dysplastic/149056410-149056444-005.BMP,herlev,severe_dysplastic,1,1,0.26684174,0.7331583
+data/herlev/Herlev Dataset/train/severe_dysplastic/149056410-149056458-001.BMP,herlev,severe_dysplastic,1,0,0.6816871,0.31831285
+data/herlev/Herlev Dataset/train/severe_dysplastic/149056410-149056458-002.BMP,herlev,severe_dysplastic,1,1,0.17720892,0.82279104
+data/herlev/Herlev Dataset/train/severe_dysplastic/149056410-149056458-004.BMP,herlev,severe_dysplastic,1,0,0.9603064,0.039693587
+data/herlev/Herlev Dataset/train/severe_dysplastic/149056410-149056458-005.BMP,herlev,severe_dysplastic,1,1,0.35899663,0.6410033
+data/herlev/Herlev Dataset/train/severe_dysplastic/149061221-149061261-002.BMP,herlev,severe_dysplastic,1,1,0.0747459,0.9252541
+data/herlev/Herlev Dataset/train/severe_dysplastic/149061221-149061289-001.BMP,herlev,severe_dysplastic,1,1,0.07624224,0.92375773
+data/herlev/Herlev Dataset/train/severe_dysplastic/149315229-149315291-001.BMP,herlev,severe_dysplastic,1,1,0.021909866,0.97809017
+data/herlev/Herlev Dataset/train/severe_dysplastic/149315229-149315291-002.BMP,herlev,severe_dysplastic,1,1,0.00026750297,0.99973243
+data/herlev/Herlev Dataset/train/severe_dysplastic/149315229-149315291-003.BMP,herlev,severe_dysplastic,1,1,9.499992e-05,0.999905
+data/herlev/Herlev Dataset/train/severe_dysplastic/149315229-149315310-001.BMP,herlev,severe_dysplastic,1,1,0.0002613231,0.99973863
+data/herlev/Herlev Dataset/train/severe_dysplastic/149315229-149315310-002.BMP,herlev,severe_dysplastic,1,1,0.005033085,0.9949669
+data/herlev/Herlev Dataset/train/severe_dysplastic/149317002-149317010-001.BMP,herlev,severe_dysplastic,1,0,0.7178092,0.2821908
+data/herlev/Herlev Dataset/train/severe_dysplastic/149317002-149317010-002.BMP,herlev,severe_dysplastic,1,1,0.01853478,0.9814652
+data/herlev/Herlev Dataset/train/severe_dysplastic/149317002-149317010-003.BMP,herlev,severe_dysplastic,1,0,0.5924905,0.4075096
+data/herlev/Herlev Dataset/train/severe_dysplastic/153657121-153657151-001.BMP,herlev,severe_dysplastic,1,1,0.0011424588,0.9988575
+data/herlev/Herlev Dataset/train/severe_dysplastic/153657121-153657160-001.BMP,herlev,severe_dysplastic,1,1,0.30563962,0.6943604
+data/herlev/Herlev Dataset/train/severe_dysplastic/153657121-153657160-002.BMP,herlev,severe_dysplastic,1,0,0.85920435,0.1407957

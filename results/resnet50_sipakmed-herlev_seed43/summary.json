@@ -1,0 +1,9 @@
+{
+  "run": "resnet50_sipakmed-herlev_seed43",
+  "device": "xpu",
+  "best_epoch": 18,
+  "best_val_loss": 0.08990828752621383,
+  "epochs_run": 24,
+  "train_minutes": 9.4,
+  "parameters": 23512130
+}

@@ -1,0 +1,9 @@
+{
+  "run": "densenet121_sipakmed-herlev_seed44",
+  "device": "xpu",
+  "best_epoch": 20,
+  "best_val_loss": 0.06695855115584681,
+  "epochs_run": 26,
+  "train_minutes": 18.44,
+  "parameters": 6955906
+}

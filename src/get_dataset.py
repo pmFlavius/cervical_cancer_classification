@@ -4,6 +4,7 @@ import kagglehub
 DATASETS = {
     "sipakmed": "marinaeplissiti/sipakmed",
     "herlev": "yuvrajsinhachowdhury/herlev-dataset",
+    "CCID": "robiulhasan0/cervical-cancer-image-dataset"
 }
 
 data_dir = Path(__file__).resolve().parent.parent / "data"

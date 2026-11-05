@@ -1,11 +1,11 @@
-# date (prea mari pentru Git)
+# data
 data/
 
 # modele salvate
 results/**/*.pt
 results/**/*.pth
 
-# mediu și IDE
+# env / IDE
 .venv/
 __pycache__/
 *.pyc

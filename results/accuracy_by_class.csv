@@ -1,0 +1,13 @@
+dataset,class_name,n_test,densenet121,resnet50
+herlev,carcinoma_in_situ,23,0.8840579710144928,0.927536231884058
+herlev,light_dysplastic,27,0.9506172839506172,0.9753086419753086
+herlev,moderate_dysplastic,22,1.0,0.9545454545454546
+herlev,normal_columnar,16,0.4583333333333333,0.22916666666666666
+herlev,normal_intermediate,9,1.0,1.0
+herlev,normal_superficiel,11,1.0,1.0
+herlev,severe_dysplastic,31,0.8602150537634409,0.946236559139785
+sipakmed,Dyskeratotic,121,0.997245179063361,1.0
+sipakmed,Koilocytotic,124,0.924731182795699,0.9516129032258065
+sipakmed,Metaplastic,119,0.896358543417367,0.8935574229691877
+sipakmed,Parabasal,118,1.0,1.0
+sipakmed,Superficial-Intermediate,127,0.994750656167979,0.9895013123359581

@@ -1,0 +1,108 @@
+{
+  "run": "results\\densenet121_sipakmed-herlev_seed43",
+  "model": "densenet121",
+  "trained_on": [
+    "sipakmed",
+    "herlev"
+  ],
+  "split": "test",
+  "inference_ms_per_image": 12.770725401078671,
+  "subsets": {
+    "all": {
+      "n": 748,
+      "accuracy": 0.9398395721925134,
+      "macro_precision": 0.9396214075761604,
+      "macro_recall": 0.9394540229885058,
+      "macro_f1": 0.9395360116401261,
+      "per_class": {
+        "normal": {
+          "precision": 0.942643391521197,
+          "recall": 0.945,
+          "f1-score": 0.9438202247191011,
+          "support": 400.0
+        },
+        "abnormal": {
+          "precision": 0.9365994236311239,
+          "recall": 0.9339080459770115,
+          "f1-score": 0.935251798561151,
+          "support": 348.0
+        }
+      },
+      "confusion_matrix": [
+        [
+          378,
+          22
+        ],
+        [
+          23,
+          325
+        ]
+      ],
+      "roc_auc": 0.9884051724137931
+    },
+    "sipakmed": {
+      "n": 609,
+      "accuracy": 0.9573070607553367,
+      "macro_precision": 0.955085333392981,
+      "macro_recall": 0.9562794348508634,
+      "macro_f1": 0.9556708996842034,
+      "per_class": {
+        "normal": {
+          "precision": 0.9668508287292817,
+          "recall": 0.9615384615384616,
+          "f1-score": 0.9641873278236914,
+          "support": 364.0
+        },
+        "abnormal": {
+          "precision": 0.9433198380566802,
+          "recall": 0.9510204081632653,
+          "f1-score": 0.9471544715447154,
+          "support": 245.0
+        }
+      },
+      "confusion_matrix": [
+        [
+          350,
+          14
+        ],
+        [
+          12,
+          233
+        ]
+      ],
+      "roc_auc": 0.9943821484637811
+    },
+    "herlev": {
+      "n": 139,
+      "accuracy": 0.8633093525179856,
+      "macro_precision": 0.818974358974359,
+      "macro_recall": 0.8354908306364617,
+      "macro_f1": 0.8265353037766832,
+      "per_class": {
+        "normal": {
+          "precision": 0.717948717948718,
+          "recall": 0.7777777777777778,
+          "f1-score": 0.7466666666666667,
+          "support": 36.0
+        },
+        "abnormal": {
+          "precision": 0.92,
+          "recall": 0.8932038834951457,
+          "f1-score": 0.9064039408866995,
+          "support": 103.0
+        }
+      },
+      "confusion_matrix": [
+        [
+          28,
+          8
+        ],
+        [
+          11,
+          92
+        ]
+      ],
+      "roc_auc": 0.9209816612729235
+    }
+  }
+}
