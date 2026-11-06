@@ -1,0 +1,24 @@
+path,dataset,class_name,true,pred,prob_normal,prob_abnormal,group,figure
+data/sipakmed/im_Dyskeratotic/im_Dyskeratotic/CROPPED/164_17.bmp,sipakmed,Dyskeratotic,1,1,1.1401995e-06,0.9999988,tp,tp.png
+data/herlev/Herlev Dataset/train/carcinoma_in_situ/149185604-149185645-005.BMP,herlev,carcinoma_in_situ,1,1,2.0536658e-05,0.9999795,tp,tp.png
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/032_03.bmp,sipakmed,Koilocytotic,1,1,5.815757e-05,0.9999418,tp,tp.png
+data/herlev/Herlev Dataset/train/severe_dysplastic/149315229-149315291-001.BMP,herlev,severe_dysplastic,1,1,0.043214448,0.95678556,tp,tp.png
+data/herlev/Herlev Dataset/test/moderate_dysplastic/153829664-153829678-001.BMP,herlev,moderate_dysplastic,1,1,0.004077493,0.99592245,tp,tp.png
+data/herlev/Herlev Dataset/train/light_dysplastic/148882671-148882687-001.BMP,herlev,light_dysplastic,1,1,0.00234718,0.9976528,tp,tp.png
+data/sipakmed/im_Parabasal/im_Parabasal/CROPPED/012_01.bmp,sipakmed,Parabasal,0,0,0.9999999,7.852715e-08,tn,tn.png
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/046_03.bmp,sipakmed,Superficial-Intermediate,0,0,0.9964142,0.0035857465,tn,tn.png
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/164_02.bmp,sipakmed,Metaplastic,0,0,0.9994542,0.0005457951,tn,tn.png
+data/herlev/Herlev Dataset/train/normal_columnar/157181146-157181197-001.BMP,herlev,normal_columnar,0,0,0.5652695,0.43473053,tn,tn.png
+data/herlev/Herlev Dataset/test/normal_intermediate/209565864-209565950-001.BMP,herlev,normal_intermediate,0,0,0.9999298,7.016235e-05,tn,tn.png
+data/herlev/Herlev Dataset/train/normal_superficiel/157222737-157222750-002.BMP,herlev,normal_superficiel,0,0,0.99999976,2.0890883e-07,tn,tn.png
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/102_03.bmp,sipakmed,Metaplastic,0,1,0.010089296,0.98991066,fp,fp.png
+data/herlev/Herlev Dataset/train/normal_columnar/153956040-153956072-004.BMP,herlev,normal_columnar,0,1,0.00049108017,0.99950886,fp,fp.png
+data/sipakmed/im_Superficial-Intermediate/im_Superficial-Intermediate/CROPPED/046_06.bmp,sipakmed,Superficial-Intermediate,0,1,0.0042988285,0.99570113,fp,fp.png
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/164_06.bmp,sipakmed,Metaplastic,0,1,0.06117544,0.9388246,fp,fp.png
+data/sipakmed/im_Metaplastic/im_Metaplastic/CROPPED/159_02.bmp,sipakmed,Metaplastic,0,1,0.0012976404,0.9987023,fp,fp.png
+data/herlev/Herlev Dataset/train/normal_columnar/153956040-153956072-002.BMP,herlev,normal_columnar,0,1,0.019529184,0.9804708,fp,fp.png
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/136_01.bmp,sipakmed,Koilocytotic,1,0,0.74458385,0.25541615,fn,fn.png
+data/herlev/Herlev Dataset/test/moderate_dysplastic/149357849-149357857-001.BMP,herlev,moderate_dysplastic,1,0,0.6888614,0.31113857,fn,fn.png
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/005_01.bmp,sipakmed,Koilocytotic,1,0,0.9992204,0.0007796075,fn,fn.png
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/005_02.bmp,sipakmed,Koilocytotic,1,0,0.94856143,0.05143853,fn,fn.png
+data/sipakmed/im_Koilocytotic/im_Koilocytotic/CROPPED/180_01.bmp,sipakmed,Koilocytotic,1,0,0.54547256,0.45452738,fn,fn.png

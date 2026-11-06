@@ -1,0 +1,9 @@
+path,dataset,class_name,true,pred,prob_normal,prob_abnormal,group,figure
+data/herlev/Herlev Dataset/train/normal_columnar/153956040-153956058-006.BMP,herlev,normal_columnar,0,1,0.42980406,0.570196,fp,fp_normal_columnar.png
+data/herlev/Herlev Dataset/train/normal_columnar/153956040-153956058-004.BMP,herlev,normal_columnar,0,1,0.00051137124,0.9994886,fp,fp_normal_columnar.png
+data/herlev/Herlev Dataset/train/normal_columnar/153956040-153956058-002.BMP,herlev,normal_columnar,0,1,0.0022298705,0.9977702,fp,fp_normal_columnar.png
+data/herlev/Herlev Dataset/train/normal_columnar/153956040-153956072-003.BMP,herlev,normal_columnar,0,1,0.08725438,0.91274565,fp,fp_normal_columnar.png
+data/herlev/Herlev Dataset/test/normal_columnar/157266930-157266947-003.BMP,herlev,normal_columnar,0,1,0.111014366,0.88898563,fp,fp_normal_columnar.png
+data/herlev/Herlev Dataset/train/normal_columnar/157181146-157181197-002.BMP,herlev,normal_columnar,0,1,0.11862968,0.88137037,fp,fp_normal_columnar.png
+data/herlev/Herlev Dataset/train/normal_columnar/157181146-157181197-003.BMP,herlev,normal_columnar,0,0,0.6701935,0.3298065,tn,tn_normal_columnar.png
+data/herlev/Herlev Dataset/train/normal_columnar/157181146-157181197-001.BMP,herlev,normal_columnar,0,0,0.5652695,0.43473053,tn,tn_normal_columnar.png
