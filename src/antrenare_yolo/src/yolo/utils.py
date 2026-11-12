@@ -3,7 +3,10 @@ import os
 
 import numpy as np
 
-# 0 = normal, 1 = anormal 
+MARIME_YOLO = 640
+
+MODEL_YOLO = "results/yolo/celule/weights/best.pt"
+
 CLASE = {
     "Superficial-Intermediate": 0,
     "Parabasal": 0,
@@ -14,6 +17,7 @@ CLASE = {
 
 
 def citeste_splituri():
+    # pentru fiecare grup (poza de lama) aflam daca e in train, val sau test
     import pandas as pd
     tabel = pd.read_csv("splits/all.csv")
     split_grup = {}
@@ -32,7 +36,7 @@ def gaseste_poze_mari():
             continue
         for cale in glob.glob(folder + "/*.bmp"):
             nume = os.path.basename(cale).replace(".bmp", "")
-            if nume.isdigit():  
+            if nume.isdigit(): 
                 grup = "sipakmed_" + clasa + "_" + nume  
                 poze.append((cale, clasa, nume, grup))
     poze.sort()
@@ -77,7 +81,7 @@ def iou(a, b):
 
 
 def decupeaza(poza, cutie, margine):
-    # taiem celula din poza mare, cu putin spatiu in jur 
+    # taiem celula din poza mare, cu putin spatiu in jur (margine 0.1 = 10% pe fiecare parte)
     inaltime, latime = poza.shape[:2]
     x1, y1, x2, y2 = cutie
     plus_x = (x2 - x1) * margine
@@ -91,8 +95,8 @@ def decupeaza(poza, cutie, margine):
     return poza[y1:y2, x1:x2]
 
 
-def gaseste_celule(model, poza, incredere=0.25, marime=1024):
-    rezultat = model.predict(poza, conf=incredere, imgsz=marime, verbose=False)[0]
+def gaseste_celule(model, poza, incredere=0.25):
+    rezultat = model.predict(poza, conf=incredere, imgsz=MARIME_YOLO, verbose=False)[0]
     cutii = rezultat.boxes.xyxy.tolist()
     scoruri = rezultat.boxes.conf.tolist()
 

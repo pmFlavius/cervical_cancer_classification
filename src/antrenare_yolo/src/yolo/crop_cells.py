@@ -1,6 +1,3 @@
-# folosim YOLO antrenat ca sa decupam celulele din orice poze.
-# fiecare celula gasita e salvata separat, gata de trimis la ResNet / DenseNet.
-
 import glob
 import os
 
@@ -8,13 +5,13 @@ import cv2
 import pandas as pd
 from ultralytics import YOLO
 
-from utils import decupeaza, gaseste_celule
+from utils import MODEL_YOLO, decupeaza, gaseste_celule
 
-MODEL = "results/yolo/yolov8s-seg/weights/best.pt"
+MODEL = MODEL_YOLO
 SURSA = "data/yolo_sipakmed/images/test"   
 IESIRE = "results/crops"
-INCREDERE = 0.25   # detectiile cu scor mai mic sunt ignorate
-MARGINE = 0.1     
+INCREDERE = 0.25   
+MARGINE = 0.1      
 
 os.makedirs(IESIRE + "/cells", exist_ok=True)
 os.makedirs(IESIRE + "/vis", exist_ok=True)
@@ -38,7 +35,7 @@ for cale in poze:
         tabel.append({"path": cale_celula, "image": os.path.basename(cale), "conf": round(scor, 3),
                       "x1": x1, "y1": y1, "x2": x2, "y2": y2})
 
-        # desenam un dreptunghi verde cu numarul celulei si scorul
+        # desenam un dreptunghi verde si scriem numarul celulei si scorul
         cv2.rectangle(desen, (x1, y1), (x2, y2), (0, 255, 0), 3)
         cv2.putText(desen, str(i) + " " + str(round(scor, 2)), (x1, y1 - 8),
                     cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 0, 255), 2)

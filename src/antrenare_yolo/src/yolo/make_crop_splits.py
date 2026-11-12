@@ -1,16 +1,14 @@
-#decupam cu YOLO toate pozele mari din SIPaKMeD si scriem splits_yolo/*.csv,
 import os
 
 import cv2
 import pandas as pd
 from ultralytics import YOLO
 
-from utils import (CLASE, citeste_splituri, contururi_din_poza, cutie_din_contur, decupeaza,
-                   gaseste_celule, gaseste_poze_mari, iou)
+from utils import *
 
-MODEL = "results/yolo/yolov8s-seg/weights/best.pt"
+MODEL = MODEL_YOLO
 INCREDERE = 0.25
-MARGINE = 0.1          
+MARGINE = 0.1         
 IOU_MINIM = 0.5
 
 split_grup = citeste_splituri()
@@ -50,6 +48,7 @@ for cale, clasa, nume, grup in gaseste_poze_mari():
         cale_celula = "data/yolo_crops/" + clasa + "/" + nume + "_" + str(i).zfill(2) + ".png"
         cv2.imwrite(cale_celula, decupeaza(poza, cutie, MARGINE))
 
+        # aceleasi coloane ca in splits/all.csv, plus scorul si suprapunerea
         randuri.append({
             "path": cale_celula,
             "dataset": "sipakmed",

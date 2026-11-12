@@ -4,7 +4,7 @@ import shutil
 import cv2
 import numpy as np
 
-from utils import citeste_splituri, contururi_din_poza, gaseste_poze_mari
+from utils import *
 
 FOLDER_YOLO = "data/yolo_sipakmed"
 
@@ -17,7 +17,7 @@ os.makedirs(FOLDER_YOLO + "/preview", exist_ok=True)
 
 nr_poze = {"train": 0, "val": 0, "test": 0}
 nr_celule = {"train": 0, "val": 0, "test": 0}
-margini = []  #
+margini = []  # ca sa vedem ce margine au decupajele originale
 
 for cale, clasa, nume, grup in gaseste_poze_mari():
     if grup not in split_grup:
@@ -29,7 +29,7 @@ for cale, clasa, nume, grup in gaseste_poze_mari():
 
     poza = cv2.imread(cale)
     inaltime, latime = poza.shape[:2]
-    nume_nou = clasa + "_" + nume 
+    nume_nou = clasa + "_" + nume  
 
     destinatie = FOLDER_YOLO + "/images/" + split + "/" + nume_nou + ".bmp"
     if not os.path.exists(destinatie):
@@ -40,13 +40,16 @@ for cale, clasa, nume, grup in gaseste_poze_mari():
 
     randuri = []
     for numar, contur in contururi:
-        rand = "0"
-        for x, y in contur:
-            x = min(max(x / latime, 0), 1)
-            y = min(max(y / inaltime, 0), 1)
-            rand += " " + str(round(x, 6)) + " " + str(round(y, 6))
-        randuri.append(rand)
+        x1, y1, x2, y2 = cutie_din_contur(contur)
+        x1, x2 = max(x1, 0), min(x2, latime)
+        y1, y2 = max(y1, 0), min(y2, inaltime)
+        centru_x = (x1 + x2) / 2 / latime
+        centru_y = (y1 + y2) / 2 / inaltime
+        w = (x2 - x1) / latime
+        h = (y2 - y1) / inaltime
+        randuri.append("0 %.6f %.6f %.6f %.6f" % (centru_x, centru_y, w, h))
 
+        # comparam cu decupajul original din CROPPED, sa vedem ce margine are
         crop = cv2.imread(os.path.dirname(cale) + "/CROPPED/" + nume + "_" + str(numar).zfill(2) + ".bmp")
         if crop is not None:
             latime_contur = contur[:, 0].max() - contur[:, 0].min()
@@ -56,6 +59,7 @@ for cale, clasa, nume, grup in gaseste_poze_mari():
     with open(FOLDER_YOLO + "/labels/" + split + "/" + nume_nou + ".txt", "w") as f:
         f.write("\n".join(randuri) + "\n")
 
+    # pentru primele 10 poze desenam contururile
     if nr_poze["train"] + nr_poze["val"] + nr_poze["test"] < 10:
         for numar, contur in contururi:
             cv2.polylines(poza, [contur.astype(np.int32)], True, (0, 255, 0), 3)
