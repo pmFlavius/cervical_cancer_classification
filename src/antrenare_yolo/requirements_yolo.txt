@@ -1,0 +1,8 @@
+torch
+torchvision
+ultralytics
+gradio
+kagglehub
+pandas
+scikit-learn
+opencv-python
